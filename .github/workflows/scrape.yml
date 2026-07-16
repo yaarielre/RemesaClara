@@ -50,7 +50,7 @@ jobs:
         run: |
           git config user.name "remesaclara-bot"
           git config user.email "bot@remesaclara.com"
-          git commit -m "🔄 Actualización automática de datos de remesas ($(date +%Y-%m-%d))"
+          git commit -m "Actualización automática de datos de remesas ($(date +%Y-%m-%d))"
           git push
 
       - name: Summary
