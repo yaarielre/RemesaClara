@@ -1,0 +1,62 @@
+name: Scraping Semanal de Remesas
+
+on:
+  schedule:
+    # Corre todos los lunes a las 6:00 AM UTC
+    - cron: "0 6 * * 1"
+  workflow_dispatch:
+    # Permite ejecutarlo manualmente desde GitHub
+
+permissions:
+  contents: write
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: "22"
+          cache: "npm"
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Run scraper
+        run: node scripts/scraper.js
+        env:
+          NODE_ENV: production
+
+      - name: Check for changes
+        id: changes
+        run: |
+          git add src/data/scraped-data.json
+          if git diff --cached --quiet; then
+            echo "changed=false" >> $GITHUB_OUTPUT
+          else
+            echo "changed=true" >> $GITHUB_OUTPUT
+          fi
+
+      - name: Commit and push
+        if: steps.changes.outputs.changed == 'true'
+        run: |
+          git config user.name "remesaclara-bot"
+          git config user.email "bot@remesaclara.com"
+          git commit -m "🔄 Actualización automática de datos de remesas ($(date +%Y-%m-%d))"
+          git push
+
+      - name: Summary
+        run: |
+          if [ "${{ steps.changes.outputs.changed }}" = "true" ]; then
+            echo "✅ Datos actualizados y commiteados" >> $GITHUB_STEP_SUMMARY
+          else
+            echo "ℹ️ Sin cambios nuevos" >> $GITHUB_STEP_SUMMARY
+          fi

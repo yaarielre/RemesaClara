@@ -1,0 +1,179 @@
+{
+  "nav": {
+    "inicio": "Home",
+    "comparativas": "Comparisons",
+    "guias": "Guides",
+    "contacto": "Contact",
+    "recibirOfertas": "Get Deals",
+    "sub_remitly_wu": "Remitly vs Western Union",
+    "sub_wise_remitly": "Wise vs Remitly",
+    "sub_enviar_mexico": "Send to Mexico",
+    "sub_enviar_colombia": "Send to Colombia",
+    "sub_enviar_rd": "Send to Dominican Republic",
+    "sub_guia_mexico": "Send to Mexico step by step",
+    "sub_guia_comision": "Send without fees",
+    "sub_guia_urgente": "Send cash urgently",
+    "sub_guia_wu": "Western Union costs"
+  },
+  "hero": {
+    "badge": "Updated comparison — July 2026",
+    "h1_1": "Save money on",
+    "h1_2": "every",
+    "h1_3": "remittance you send",
+    "p": "We compare Remitly, Wise, Western Union, Xoom and more so you know exactly how much you pay and which is cheapest for sending money to Latin America.",
+    "btn_comparativas": "View Comparisons",
+    "btn_guias": "Read Guides"
+  },
+  "stats": {
+    "hispanos": "Hispanics in the U.S.",
+    "remesas": "In annual remittances",
+    "costo": "Avg app cost vs 7% bank",
+    "rapido": "Fastest express transfer"
+  },
+  "features": {
+    "titulo": "Why trust RemesaClara?",
+    "subtitulo": "We're not a transfer app. We're an independent platform that helps you make the best decision.",
+    "tarifas_t": "Real Fees",
+    "tarifas_d": "We don't just show the transfer fee. We calculate the total cost: fee + exchange rate spread.",
+    "verificada_t": "Verified Information",
+    "verificada_d": "We update our comparisons every week with real rates and changes from each platform.",
+    "instante_t": "Instant Comparison",
+    "instante_d": "At a glance you see which app is cheapest, which is fastest, and which is best for your case.",
+    "paises_t": "All Countries",
+    "paises_d": "We cover Mexico, Colombia, Dominican Republic, Guatemala, El Salvador, Honduras and more."
+  },
+  "comparativas_section": {
+    "titulo": "Most searched comparisons",
+    "subtitulo": "Real analysis with updated rates",
+    "ver_todas": "View all"
+  },
+  "como_funciona": {
+    "titulo": "How it works",
+    "subtitulo": "Three simple steps so you stop overpaying on remittances.",
+    "paso1_t": "Compare",
+    "paso1_d": "Choose the destination country and compare real rates from each platform.",
+    "paso2_t": "Choose",
+    "paso2_d": "Pick the app that best fits your speed, price, and transfer method needs.",
+    "paso3_t": "Send & Save",
+    "paso3_d": "Create your account, send your money, and enjoy the best rates on the market."
+  },
+  "guias_section": {
+    "titulo": "Useful guides",
+    "subtitulo": "Learn to send money smartly",
+    "ver_todas": "View all"
+  },
+  "paises_section": {
+    "titulo": "Send money across Latin America",
+    "subtitulo": "Choose your destination country and compare the best options"
+  },
+  "cta": {
+    "titulo": "Ready to stop overpaying?",
+    "p": "Join thousands of Hispanics in the U.S. already saving on every remittance they send. Free, no commitment.",
+    "btn": "Get Started"
+  },
+  "comparativas_page": {
+    "titulo": "Remittance Comparisons",
+    "subtitulo": "Real analysis with updated rates. Compare money transfer apps and find the cheapest for your case.",
+    "buscar": "Search comparison...",
+    "todas": "All",
+    "no_resultados": "No comparisons found for"
+  },
+  "comparativa_detalle": {
+    "volver": "Back to comparisons",
+    "lectura": "read",
+    "tarifa": "Fee per $100",
+    "tipo_cambio": "Exchange Rate",
+    "velocidad": "Speed",
+    "metodos": "Methods",
+    "fuertes": "Pros",
+    "debiles": "Cons",
+    "ideal_para": "Ideal for:",
+    "veredicto": "Final Verdict",
+    "ganador": "Winner",
+    "resumen": "Quick Summary",
+    "relacionadas": "Related Comparisons"
+  },
+  "guias_page": {
+    "titulo": "Remittance Guides",
+    "subtitulo": "Learn to send money safely, quickly, and with the best rates. Practical step-by-step guides.",
+    "buscar": "Search guide...",
+    "todas": "All",
+    "no_resultados": "No guides found for"
+  },
+  "guia_detalle": {
+    "volver": "Back to guides",
+    "lectura": "read",
+    "consejos": "Tips to Save",
+    "desarrollo": "Content in development. Come back soon for the full guide.",
+    "relacionadas": "Related Guides"
+  },
+  "contacto": {
+    "titulo": "Contact",
+    "subtitulo": "Have questions, suggestions, or want to collaborate? Write to us and we'll respond soon.",
+    "info_t": "Contact Information",
+    "correo": "Email",
+    "ubicacion": "Location",
+    "ubicacion_v": "United States",
+    "horario": "Response Hours",
+    "horario_v": "Monday to Friday, 9am - 6pm EST",
+    "contenido_t": "What kind of content do we create?",
+    "c1": "Unbiased remittance app comparisons",
+    "c2": "Practical step-by-step guides",
+    "c3": "Fee and exchange rate analysis",
+    "c4": "Remittance industry news",
+    "form_t": "Send Us a Message",
+    "nombre": "Name",
+    "nombre_p": "Your name",
+    "email": "Email",
+    "email_p": "you@email.com",
+    "asunto": "Subject",
+    "asunto_sel": "Select a subject",
+    "asunto_1": "Question about remittances",
+    "asunto_2": "Content suggestion",
+    "asunto_3": "Collaboration proposal",
+    "asunto_4": "Report incorrect information",
+    "asunto_5": "Other",
+    "mensaje": "Message",
+    "mensaje_p": "Write your message here...",
+    "enviar": "Send Message",
+    "aviso": "RemesaClara is an independent informational platform. We are not a money transfer company and are not affiliated with any platform mentioned on this site. Our content is based on our own research and analysis. Always verify rates directly on the official app or website before sending money."
+  },
+  "footer": {
+    "newsletter_t": "Get updated comparisons",
+    "newsletter_p": "We'll notify you when there are new deals or rate changes.",
+    "email_p": "Your email address",
+    "suscribirme": "Subscribe",
+    "descripcion": "We compare the best apps for sending money from the United States to Latin America. Save time and money on every remittance.",
+    "verificada": "Verified and updated information",
+    "comparativas": "Comparisons",
+    "guias": "Guides",
+    "envios_pais": "Transfers by Country",
+    "derechos": "All rights reserved. For informational purposes only.",
+    "privacidad": "Privacy Policy",
+    "terminos": "Terms of Use",
+    "contacto": "Contact",
+    "hecho": "Made with",
+    "para": "for the Latino community in the U.S."
+  },
+  "card": {
+    "ganador": "Winner",
+    "analisis": "Full analysis",
+    "min_lectura": "min read"
+  },
+  "paises": {
+    "mexico": "Mexico",
+    "colombia": "Colombia",
+    "rd": "Dominican Republic",
+    "guatemala": "Guatemala",
+    "el_salvador": "El Salvador",
+    "honduras": "Honduras",
+    "ecuador": "Ecuador",
+    "peru": "Peru",
+    "venezuela": "Venezuela",
+    "cuba": "Cuba"
+  },
+  "lang": {
+    "es": "Español",
+    "en": "English"
+  }
+}

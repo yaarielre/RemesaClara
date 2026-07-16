@@ -1,0 +1,179 @@
+{
+  "nav": {
+    "inicio": "Inicio",
+    "comparativas": "Comparativas",
+    "guias": "Guías",
+    "contacto": "Contacto",
+    "recibirOfertas": "Recibir Ofertas",
+    "sub_remitly_wu": "Remitly vs Western Union",
+    "sub_wise_remitly": "Wise vs Remitly",
+    "sub_enviar_mexico": "Enviar a México",
+    "sub_enviar_colombia": "Enviar a Colombia",
+    "sub_enviar_rd": "Enviar a Rep. Dominicana",
+    "sub_guia_mexico": "Enviar a México paso a paso",
+    "sub_guia_comision": "Enviar sin comisión",
+    "sub_guia_urgente": "Enviar urgente en efectivo",
+    "sub_guia_wu": "Costos de Western Union"
+  },
+  "hero": {
+    "badge": "Comparativa actualizada en julio 2026",
+    "h1_1": "Ahorra dinero en",
+    "h1_2": "cada remesa",
+    "h1_3": "que envíes",
+    "p": "Comparamos Remitly, Wise, Western Union, Xoom y más para que sepas exactamente cuánto pagas y cuál es la más barata para enviar dinero a Latinoamérica.",
+    "btn_comparativas": "Ver Comparativas",
+    "btn_guias": "Leer Guías"
+  },
+  "stats": {
+    "hispanos": "Hispanos en EE.UU.",
+    "remesas": "En remesas anuales",
+    "costo": "Costo promedio app vs 7% banco",
+    "rapido": "Envío express más rápido"
+  },
+  "features": {
+    "titulo": "¿Por qué confiar en RemesaClara?",
+    "subtitulo": "No somos una app de envíos. Somos una plataforma independiente que te ayuda a tomar la mejor decisión.",
+    "tarifas_t": "Tarifas Reales",
+    "tarifas_d": "No mostramos solo la tarifa de envío. Calculamos el costo total: tarifa + spread del tipo de cambio.",
+    "verificada_t": "Información Verificada",
+    "verificada_d": "Actualizamos nuestras comparativas cada semana con tarifas y cambios reales de cada plataforma.",
+    "instante_t": "Comparativa Instantánea",
+    "instante_d": "En un visteo ves cuál app es más barata, cuál es más rápida y cuál es mejor para tu caso.",
+    "paises_t": "Todos los Países",
+    "paises_d": "Cubrimos México, Colombia, Rep. Dominicana, Guatemala, El Salvador, Honduras y más."
+  },
+  "comparativas_section": {
+    "titulo": "Comparativas más buscadas",
+    "subtitulo": "Análisis reales con tarifas actualizadas",
+    "ver_todas": "Ver todas"
+  },
+  "como_funciona": {
+    "titulo": "Cómo funciona",
+    "subtitulo": "Tres pasos simples para que dejes de pagar de más en tus remesas.",
+    "paso1_t": "Compara",
+    "paso1_d": "Elige el país destino y compara las tarifas reales de cada plataforma.",
+    "paso2_t": "Elige",
+    "paso2_d": "Selecciona la app que mejor se adapte a tu velocidad, precio y método de envío.",
+    "paso3_t": "Envía y Ahorra",
+    "paso3_d": "Crea tu cuenta, envía tu dinero y disfruta de las mejores tarifas del mercado."
+  },
+  "guias_section": {
+    "titulo": "Guías útiles",
+    "subtitulo": "Aprende a enviar dinero de forma inteligente",
+    "ver_todas": "Ver todas"
+  },
+  "paises_section": {
+    "titulo": "Envía dinero a toda Latinoamérica",
+    "subtitulo": "Selecciona tu país destino y compara las mejores opciones"
+  },
+  "cta": {
+    "titulo": "¿Listo para dejar de pagar de más?",
+    "p": "Únete a miles de hispanos en EE.UU. que ya ahorran en cada remesa que envían. Es gratis, sin compromiso.",
+    "btn": "Empezar Ahora"
+  },
+  "comparativas_page": {
+    "titulo": "Comparativas de Remesas",
+    "subtitulo": "Análisis reales con tarifas actualizadas. Compara apps de envío de dinero y encuentra la más barata para tu caso.",
+    "buscar": "Buscar comparativa...",
+    "todas": "Todas",
+    "no_resultados": "No se encontraron comparativas para"
+  },
+  "comparativa_detalle": {
+    "volver": "Volver a comparativas",
+    "lectura": "de lectura",
+    "tarifa": "Tarifa por $100",
+    "tipo_cambio": "Tipo de Cambio",
+    "velocidad": "Velocidad",
+    "metodos": "Métodos",
+    "fuertes": "Puntos Fuertes",
+    "debiles": "Puntos Débiles",
+    "ideal_para": "Ideal para:",
+    "veredicto": "Veredicto Final",
+    "ganador": "Ganador",
+    "resumen": "Resumen Rápido",
+    "relacionadas": "Comparativas Relacionadas"
+  },
+  "guias_page": {
+    "titulo": "Guías de Remesas",
+    "subtitulo": "Aprende a enviar dinero de forma segura, rápida y con las mejores tarifas. Guías prácticas paso a paso.",
+    "buscar": "Buscar guía...",
+    "todas": "Todas",
+    "no_resultados": "No se encontraron guías para"
+  },
+  "guia_detalle": {
+    "volver": "Volver a guías",
+    "lectura": "de lectura",
+    "consejos": "Consejos para Ahorrar",
+    "desarrollo": "Contenido en desarrollo. Vuelve pronto para la guía completa.",
+    "relacionadas": "Guías Relacionadas"
+  },
+  "contacto": {
+    "titulo": "Contacto",
+    "subtitulo": "¿Tienes preguntas, sugerencias o quieres colaborar? Escríbenos y te respondemos pronto.",
+    "info_t": "Información de Contacto",
+    "correo": "Correo Electrónico",
+    "ubicacion": "Ubicación",
+    "ubicacion_v": "Estados Unidos",
+    "horario": "Horario de Respuesta",
+    "horario_v": "Lunes a viernes, 9am - 6pm EST",
+    "contenido_t": "¿Qué tipo de contenido hacemos?",
+    "c1": "Comparativas imparciales de apps de remesas",
+    "c2": "Guías prácticas paso a paso",
+    "c3": "Análisis de tarifas y tipos de cambio",
+    "c4": "Noticias del mundo de las remesas",
+    "form_t": "Envíanos un Mensaje",
+    "nombre": "Nombre",
+    "nombre_p": "Tu nombre",
+    "email": "Correo Electrónico",
+    "email_p": "tu@email.com",
+    "asunto": "Asunto",
+    "asunto_sel": "Selecciona un asunto",
+    "asunto_1": "Pregunta sobre remesas",
+    "asunto_2": "Sugerencia de contenido",
+    "asunto_3": "Propuesta de colaboración",
+    "asunto_4": "Reportar información incorrecta",
+    "asunto_5": "Otro",
+    "mensaje": "Mensaje",
+    "mensaje_p": "Escribe tu mensaje aquí...",
+    "enviar": "Enviar Mensaje",
+    "aviso": "RemesaClara es una plataforma informativa independiente. No somos una empresa de envío de dinero ni estamos afiliados con ninguna plataforma mencionada en este sitio. Nuestro contenido se basa en investigación y análisis propio. Siempre verifica las tarifas directamente en la app o sitio oficial antes de enviar dinero."
+  },
+  "footer": {
+    "newsletter_t": "Recibe comparativas actualizadas",
+    "newsletter_p": "Te avisamos cuando hay nuevas ofertas o cambios en tarifas.",
+    "email_p": "Tu correo electrónico",
+    "suscribirme": "Suscribirme",
+    "descripcion": "Comparamos las mejores apps para enviar dinero desde Estados Unidos a Latinoamérica. Ahorra tiempo y dinero en cada remesa.",
+    "verificada": "Información verificada y actualizada",
+    "comparativas": "Comparativas",
+    "guias": "Guías",
+    "envios_pais": "Envíos por País",
+    "derechos": "Todos los derechos reservados. Información con fines educativos.",
+    "privacidad": "Política de Privacidad",
+    "terminos": "Términos de Uso",
+    "contacto": "Contacto",
+    "hecho": "Hecho con",
+    "para": "para la comunidad latina en EE.UU."
+  },
+  "card": {
+    "ganador": "Ganador",
+    "analisis": "Análisis completo",
+    "min_lectura": "min de lectura"
+  },
+  "paises": {
+    "mexico": "México",
+    "colombia": "Colombia",
+    "rd": "Rep. Dominicana",
+    "guatemala": "Guatemala",
+    "el_salvador": "El Salvador",
+    "honduras": "Honduras",
+    "ecuador": "Ecuador",
+    "peru": "Perú",
+    "venezuela": "Venezuela",
+    "cuba": "Cuba"
+  },
+  "lang": {
+    "es": "Español",
+    "en": "English"
+  }
+}
