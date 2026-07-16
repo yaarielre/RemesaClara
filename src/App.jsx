@@ -1,6 +1,7 @@
-import { Routes, Route } from "react-router-dom";
+﻿import { Routes, Route } from "react-router-dom";
 import Navbar from "./components/Navbar.jsx";
 import Footer from "./components/Footer.jsx";
+import ScrollToTop from "./components/ScrollToTop.jsx";
 import Home from "./pages/Home.jsx";
 import Comparativas from "./pages/Comparativas.jsx";
 import Guias from "./pages/Guias.jsx";
@@ -11,6 +12,7 @@ import GuiasDetalle from "./pages/GuiasDetalle.jsx";
 function App() {
   return (
     <div className="min-h-screen flex flex-col">
+      <ScrollToTop />
       <Navbar />
       <main className="flex-1">
         <Routes>

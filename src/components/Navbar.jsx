@@ -1,7 +1,8 @@
 import { useState } from "react";
 import { Link, useLocation } from "react-router-dom";
 import { useTranslation } from "react-i18next";
-import { Menu, X, DollarSign, ChevronDown, Globe } from "lucide-react";
+import { Menu, X, ChevronDown, Globe } from "lucide-react";
+import logo from "../assets/logo.jpg";
 
 const navLinks = [
   { key: "inicio", path: "/" },
@@ -30,8 +31,8 @@ const navLinks = [
 ];
 
 const languages = [
-  { code: "es", label: "ES", flag: "🇪🇸" },
-  { code: "en", label: "EN", flag: "🇺🇸" },
+  { code: "es", label: "ES", flag: "\u{1F1EA}\u{1F1F8}" },
+  { code: "en", label: "EN", flag: "\u{1F1FA}\u{1F1F8}" },
 ];
 
 export default function Navbar() {
@@ -53,13 +54,7 @@ export default function Navbar() {
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="flex items-center justify-between h-16">
           <Link to="/" className="flex items-center gap-2.5 group">
-            <div className="w-9 h-9 bg-gradient-to-br from-primary to-primary-dark rounded-xl flex items-center justify-center group-hover:from-primary-light group-hover:to-primary transition-all duration-300 shadow-lg shadow-primary/20">
-              <DollarSign className="w-5 h-5 text-white" strokeWidth={2.5} />
-            </div>
-            <div className="flex flex-col">
-              <span className="text-lg font-extrabold text-text leading-tight tracking-tight">Remesa</span>
-              <span className="text-lg font-extrabold text-primary leading-tight -mt-1 tracking-tight">Clara</span>
-            </div>
+            <img src={logo} alt="RemesaClara" className="h-10 w-auto rounded-lg object-contain" />
           </Link>
 
           <div className="hidden md:flex items-center gap-1">
@@ -72,9 +67,7 @@ export default function Navbar() {
               >
                 <Link
                   to={link.path}
-                  className={`flex items-center gap-1 px-3 py-2 rounded-lg text-sm font-medium transition-all duration-200 ${
-                    isActive(link.path) ? "text-primary bg-primary/10" : "text-text-light hover:text-text hover:bg-white/5"
-                  }`}
+                  className={`flex items-center gap-1 px-3 py-2 rounded-lg text-sm font-medium transition-all duration-200 ${isActive(link.path) ? "text-primary bg-primary/10" : "text-text-light hover:text-text hover:bg-white/5"}`}
                 >
                   {t(`nav.${link.key}`)}
                   {link.submenu && <ChevronDown className={`w-3.5 h-3.5 transition-transform ${openSubmenu === link.key ? "rotate-180" : ""}`} />}
@@ -93,7 +86,6 @@ export default function Navbar() {
           </div>
 
           <div className="hidden md:flex items-center gap-3">
-            {/* Language Switcher */}
             <div className="relative" onMouseEnter={() => setLangOpen(true)} onMouseLeave={() => setLangOpen(false)}>
               <button className="flex items-center gap-1.5 px-3 py-2 rounded-lg text-sm font-medium text-text-light hover:text-text hover:bg-white/5 transition-all border border-border/40">
                 <Globe className="w-4 h-4" />
@@ -107,9 +99,7 @@ export default function Navbar() {
                     <button
                       key={l.code}
                       onClick={() => switchLang(l.code)}
-                      className={`w-full flex items-center gap-2 px-4 py-2.5 text-sm transition-colors ${
-                        i18n.language === l.code ? "text-primary bg-primary/10 font-semibold" : "text-text-light hover:text-primary hover:bg-primary/5"
-                      }`}
+                      className={`w-full flex items-center gap-2 px-4 py-2.5 text-sm transition-colors ${i18n.language === l.code ? "text-primary bg-primary/10 font-semibold" : "text-text-light hover:text-primary hover:bg-primary/5"}`}
                     >
                       <span>{l.flag}</span>
                       <span>{t(`lang.${l.code}`)}</span>
@@ -150,7 +140,6 @@ export default function Navbar() {
               </div>
             ))}
 
-            {/* Mobile Language Switcher */}
             <div className="px-4 py-3 border-t border-border/30 mt-2 pt-4">
               <div className="text-xs text-text-lighter mb-2 font-semibold uppercase tracking-wider">{t("nav.inicio") === "Inicio" ? "Idioma" : "Language"}</div>
               <div className="flex gap-2">
@@ -158,9 +147,7 @@ export default function Navbar() {
                   <button
                     key={l.code}
                     onClick={() => { i18n.changeLanguage(l.code); setIsOpen(false); }}
-                    className={`flex items-center gap-2 px-4 py-2 rounded-lg text-sm font-medium transition-all ${
-                      i18n.language === l.code ? "bg-primary/15 text-primary border border-primary/20" : "bg-card text-text-light border border-border/50"
-                    }`}
+                    className={`flex items-center gap-2 px-4 py-2 rounded-lg text-sm font-medium transition-all ${i18n.language === l.code ? "bg-primary/15 text-primary border border-primary/20" : "bg-card text-text-light border border-border/50"}`}
                   >
                     <span>{l.flag}</span>
                     <span>{t(`lang.${l.code}`)}</span>

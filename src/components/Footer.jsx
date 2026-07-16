@@ -1,6 +1,7 @@
 import { Link } from "react-router-dom";
 import { useTranslation } from "react-i18next";
-import { DollarSign, Mail, ArrowRight, Shield, Heart } from "lucide-react";
+import { Mail, ArrowRight, Shield, Heart } from "lucide-react";
+import logo from "../assets/logo.jpg";
 
 const comparativasLinks = [
   { key: "sub_remitly_wu", path: "/comparativas/remitly-vs-western-union" },
@@ -19,12 +20,12 @@ const guiasLinks = [
 ];
 
 const paisesLinks = [
-  { key: "mexico", flag: "🇲🇽", slug: "mexico" },
-  { key: "colombia", flag: "🇨🇴", slug: "colombia" },
-  { key: "rd", flag: "🇩🇴", slug: "republica-dominicana" },
-  { key: "guatemala", flag: "🇬🇹", slug: "guatemala" },
-  { key: "el_salvador", flag: "🇸🇻", slug: "el-salvador" },
-  { key: "honduras", flag: "🇭🇳", slug: "honduras" },
+  { key: "mexico", flag: "\u{1F1F2}\u{1F1FD}", slug: "mexico" },
+  { key: "colombia", flag: "\u{1F1E8}\u{1F1F4}", slug: "colombia" },
+  { key: "rd", flag: "\u{1F1E9}\u{1F1F4}", slug: "republica-dominicana" },
+  { key: "guatemala", flag: "\u{1F1EC}\u{1F1F9}", slug: "guatemala" },
+  { key: "el_salvador", flag: "\u{1F1F8}\u{1F1FB}", slug: "el-salvador" },
+  { key: "honduras", flag: "\u{1F1ED}\u{1F1F7}", slug: "honduras" },
 ];
 
 export default function Footer() {
@@ -59,13 +60,7 @@ export default function Footer() {
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-8">
           <div>
             <Link to="/" className="flex items-center gap-2.5 mb-4">
-              <div className="w-9 h-9 bg-gradient-to-br from-primary to-primary-dark rounded-xl flex items-center justify-center shadow-lg shadow-primary/20">
-                <DollarSign className="w-5 h-5 text-white" strokeWidth={2.5} />
-              </div>
-              <div className="flex flex-col">
-                <span className="text-lg font-extrabold text-text leading-tight tracking-tight">Remesa</span>
-                <span className="text-lg font-extrabold text-primary leading-tight -mt-1 tracking-tight">Clara</span>
-              </div>
+              <img src={logo} alt="RemesaClara" className="h-10 w-auto rounded-lg object-contain" />
             </Link>
             <p className="text-sm text-text-light leading-relaxed">{t("footer.descripcion")}</p>
             <div className="flex items-center gap-2 mt-4 text-xs text-text-lighter">
