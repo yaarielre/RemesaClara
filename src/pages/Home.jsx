@@ -64,8 +64,9 @@ export default function Home() {
   const { t } = useTranslation();
 
   return (
-    // Hero Section about the website, with a background image and a gradient overlay
+
     <div className="bg-surface-dark">
+      {/* Hero section: large banner with background image, headline and CTAs */}
       <section className="relative overflow-hidden min-h-[520px] md:min-h-[600px]">
         <img
           src={heroImg}
@@ -109,8 +110,8 @@ export default function Home() {
           </div>
         </div>
       </section>
-      // this section is about the statistics of the website, with a background
-      color and a grid layout
+
+      {/* Stats section: site statistics grid */}
       <section className="bg-surface-dark border-y border-border/40">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-8">
           <div className="grid grid-cols-2 md:grid-cols-4 gap-6">
@@ -128,11 +129,12 @@ export default function Home() {
           </div>
         </div>
       </section>
+
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-6">
         <AdSlot position="banner" />
       </div>
-      // this section is about the features of the website, with a grid layout
-      and icons
+
+      {/* Features section: grid of feature cards with icons and descriptions */}
       <section className="py-16 md:py-20">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="text-center mb-12">
@@ -164,9 +166,9 @@ export default function Home() {
             ))}
           </div>
         </div>
-        // this section is about the comparisons of the website, with a grid
-        layout
       </section>
+
+      {/* Comparisons section: list of comparison cards */}
       <section className="py-16 md:py-20 bg-surface/50">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="flex items-center justify-between mb-10">
@@ -193,6 +195,8 @@ export default function Home() {
           </div>
         </div>
       </section>
+
+      {/* How it works section: three steps explaining the process */}
       <section className="py-16 md:py-20">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="text-center mb-12">
@@ -223,6 +227,8 @@ export default function Home() {
           </div>
         </div>
       </section>
+
+      {/* Guides section: articles and guides */}
       <section className="py-16 md:py-20 bg-surface/50">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="flex items-center justify-between mb-10">
@@ -247,6 +253,8 @@ export default function Home() {
           </div>
         </div>
       </section>
+
+      {/* Countries section: country tiles with flags and links */}
       <section className="py-16 md:py-20">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="text-center mb-12">
@@ -273,9 +281,12 @@ export default function Home() {
           </div>
         </div>
       </section>
+
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-6">
         <AdSlot position="banner" />
       </div>
+
+      {/* CTA section: call to action with button linking to comparisons */}
       <section className="py-16 md:py-20 bg-gradient-to-r from-primary/20 via-primary/10 to-secondary/10 border-y border-border/40">
         <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
           <h2 className="text-3xl md:text-4xl font-extrabold text-text mb-4">
