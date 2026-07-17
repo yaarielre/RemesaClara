@@ -27,7 +27,6 @@ const navLinks = [
       { key: "sub_guia_wu", path: "/guias/cuanto-cobra-western-union-100" },
     ],
   },
-  { key: "contacto", path: "/contacto" },
 ];
 
 const languages = [
@@ -109,9 +108,9 @@ export default function Navbar() {
               )}
             </div>
 
-            <a href="#newsletter" className="px-4 py-2 bg-gradient-to-r from-secondary to-secondary-dark text-surface-dark text-sm font-bold rounded-lg hover:from-secondary-light hover:to-secondary transition-all shadow-lg shadow-secondary/20">
-              {t("nav.recibirOfertas")}
-            </a>
+            <Link to="/legal" className="px-4 py-2 bg-gradient-to-r from-secondary to-secondary-dark text-surface-dark text-sm font-bold rounded-lg hover:from-secondary-light hover:to-secondary transition-all shadow-lg shadow-secondary/20">
+              {t("nav.legal")}
+            </Link>
           </div>
 
           <button onClick={() => setIsOpen(!isOpen)} className="md:hidden p-2 rounded-lg text-text-light hover:bg-white/5 transition-colors" aria-label="Menu">
@@ -156,9 +155,9 @@ export default function Navbar() {
               </div>
             </div>
 
-            <a href="#newsletter" onClick={() => setIsOpen(false)} className="block text-center mt-4 px-4 py-3 bg-gradient-to-r from-secondary to-secondary-dark text-surface-dark text-sm font-bold rounded-lg">
-              {t("nav.recibirOfertas")}
-            </a>
+            <Link to="/legal" onClick={() => setIsOpen(false)} className="block text-center mt-4 px-4 py-3 bg-gradient-to-r from-secondary to-secondary-dark text-surface-dark text-sm font-bold rounded-lg">
+              {t("nav.legal")}
+            </Link>
           </div>
         </div>
       )}

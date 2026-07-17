@@ -5,7 +5,7 @@ import ScrollToTop from "./components/ScrollToTop.jsx";
 import Home from "./pages/Home.jsx";
 import Comparativas from "./pages/Comparativas.jsx";
 import Guias from "./pages/Guias.jsx";
-import Contacto from "./pages/Contacto.jsx";
+import Legal from "./pages/Legal.jsx";
 import ComparativaDetalle from "./pages/ComparativaDetalle.jsx";
 import GuiasDetalle from "./pages/GuiasDetalle.jsx";
 
@@ -21,7 +21,7 @@ function App() {
           <Route path="/comparativas/:slug" element={<ComparativaDetalle />} />
           <Route path="/guias" element={<Guias />} />
           <Route path="/guias/:slug" element={<GuiasDetalle />} />
-          <Route path="/contacto" element={<Contacto />} />
+          <Route path="/legal" element={<Legal />} />
         </Routes>
       </main>
       <Footer />

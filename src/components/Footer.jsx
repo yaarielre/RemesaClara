@@ -1,6 +1,6 @@
 import { Link } from "react-router-dom";
 import { useTranslation } from "react-i18next";
-import { Mail, ArrowRight, Shield, Heart } from "lucide-react";
+import { Shield, Heart } from "lucide-react";
 import logo from "../assets/logo.jpg";
 
 const comparativasLinks = [
@@ -33,29 +33,6 @@ export default function Footer() {
 
   return (
     <footer className="bg-surface-dark text-text border-t border-border/60">
-      <div id="newsletter" className="bg-gradient-to-r from-primary/20 via-primary/10 to-secondary/10 border-b border-border/40">
-        <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-10">
-          <div className="flex flex-col md:flex-row items-center justify-between gap-6">
-            <div className="flex items-center gap-3">
-              <div className="w-12 h-12 bg-primary/20 rounded-xl flex items-center justify-center">
-                <Mail className="w-6 h-6 text-primary" />
-              </div>
-              <div>
-                <h3 className="text-lg font-bold text-text">{t("footer.newsletter_t")}</h3>
-                <p className="text-sm text-text-light">{t("footer.newsletter_p")}</p>
-              </div>
-            </div>
-            <form className="flex gap-2 w-full md:w-auto" onSubmit={(e) => e.preventDefault()}>
-              <input type="email" placeholder={t("footer.email_p")} className="flex-1 md:w-72 px-4 py-3 rounded-xl bg-card text-text placeholder-text-lighter border border-border focus:outline-none focus:border-primary focus:ring-2 focus:ring-primary/20 text-sm transition-all" />
-              <button className="px-6 py-3 bg-gradient-to-r from-primary to-primary-dark text-white font-bold rounded-xl hover:from-primary-light hover:to-primary transition-all text-sm flex items-center gap-2 whitespace-nowrap shadow-lg shadow-primary/20">
-                {t("footer.suscribirme")}
-                <ArrowRight className="w-4 h-4" />
-              </button>
-            </form>
-          </div>
-        </div>
-      </div>
-
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-8">
           <div>
@@ -114,9 +91,9 @@ export default function Footer() {
           <div className="flex flex-col md:flex-row items-center justify-between gap-4">
             <p className="text-xs text-text-lighter">&copy; 2026 RemesaClara. {t("footer.derechos")}</p>
             <div className="flex items-center gap-6 text-xs text-text-lighter">
-              <Link to="/contacto" className="hover:text-primary transition-colors">{t("footer.privacidad")}</Link>
-              <Link to="/contacto" className="hover:text-primary transition-colors">{t("footer.terminos")}</Link>
-              <Link to="/contacto" className="hover:text-primary transition-colors">{t("footer.contacto")}</Link>
+              <Link to="/legal" className="hover:text-primary transition-colors">{t("footer.privacidad")}</Link>
+              <Link to="/legal" className="hover:text-primary transition-colors">{t("footer.terminos")}</Link>
+              <Link to="/legal" className="hover:text-primary transition-colors">{t("footer.contacto")}</Link>
             </div>
           </div>
           <div className="mt-4 flex items-center justify-center gap-1 text-xs text-text-lighter">
