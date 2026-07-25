@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "scrapedAt": "2026-07-24T08:04:42.068Z",
+    "scrapedAt": "2026-07-25T07:48:28.251Z",
     "sourcesAttempted": 8,
     "sourcesSuccessful": 8
   },
@@ -8,13 +8,12 @@
     {
       "source": "Wise",
       "url": "https://wise.com/us/send-money/send-money-to-mexico",
-      "extractedAt": "2026-07-24T08:04:43.223Z",
+      "extractedAt": "2026-07-25T07:48:29.261Z",
       "fees": [],
-      "exchangeRate": "Tipo de cambio(1 USD MXN)17.4986",
+      "exchangeRate": null,
       "deliveryTime": null,
       "contentSummary": [
         "Envíos de dinero a México",
-        "Compara las comisiones cuando envíes dinero a México",
         "Cómo enviar dinero a México desde los EE. UU.",
         "Transferencias más grandes. Comisiones más bajas. Servicio prémium.",
         "Transferencias de dinero seguras a México",
@@ -23,7 +22,7 @@
         "La forma más barata de enviar dinero a México desde los EE. UU.",
         "La forma más rápida de enviar dinero a México desde los EE. UU.",
         "Envía dinero a México desde los EE. UU. con la app de Wise",
-        "4.3 / 5 en Trustpilot de un total de 295,430 reseñas",
+        "4.3 / 5 en Trustpilot de un total de 295,440 reseñas",
         "Preguntas frecuentes",
         "Descubre dónde funciona Wise",
         "Productos",
@@ -42,14 +41,15 @@
         "Cuenta bancaria local",
         "Transferencias baratas en el extranjero",
         "Haz un seguimiento de los tipos de cambio",
-        "Notificaciones en tiempo real"
+        "Notificaciones en tiempo real",
+        "¿A quién puedo enviar pesos mexicanos (MXN)?"
       ],
       "sourceType": "official"
     },
     {
       "source": "Wise",
       "url": "https://wise.com/us/send-money/send-money-to-colombia",
-      "extractedAt": "2026-07-24T08:04:44.045Z",
+      "extractedAt": "2026-07-25T07:48:30.036Z",
       "fees": [],
       "exchangeRate": null,
       "deliveryTime": null,
@@ -63,7 +63,7 @@
         "La forma más barata de enviar dinero a Colombia desde los EE. UU.",
         "La forma más rápida de enviar dinero a Colombia desde los EE. UU.",
         "Envía dinero a Colombia desde los EE. UU. con la app de Wise",
-        "4.3 / 5 en Trustpilot de un total de 295,433 reseñas",
+        "4.3 / 5 en Trustpilot de un total de 295,440 reseñas",
         "Preguntas frecuentes",
         "Descubre dónde funciona Wise",
         "Productos",
@@ -90,7 +90,7 @@
     {
       "source": "Remitly",
       "url": "https://www.remitly.com/us/en/mexico",
-      "extractedAt": "2026-07-24T08:04:44.990Z",
+      "extractedAt": "2026-07-25T07:48:30.709Z",
       "fees": [],
       "features": [],
       "contentSummary": [
@@ -130,7 +130,7 @@
     {
       "source": "Remitly",
       "url": "https://www.remitly.com/us/en/colombia",
-      "extractedAt": "2026-07-24T08:04:45.575Z",
+      "extractedAt": "2026-07-25T07:48:31.231Z",
       "fees": [],
       "features": [],
       "contentSummary": [
@@ -170,7 +170,7 @@
     {
       "source": "Western Union",
       "url": "https://www.westernunion.com/us/en/home.html",
-      "extractedAt": "2026-07-24T08:04:45.942Z",
+      "extractedAt": "2026-07-25T07:48:31.426Z",
       "fees": [
         "Fee: from {{strikedFee}} to {{fee}}",
         ": from {{strikedFee}} to {{fee}}",
@@ -222,7 +222,7 @@
     {
       "source": "Monito",
       "url": "https://www.monito.com/send-money/united-states/mexico/usd/mxn",
-      "extractedAt": "2026-07-24T08:04:46.344Z",
+      "extractedAt": "2026-07-25T07:48:31.695Z",
       "providers": [
         "💸 Number of providers 13",
         "🏆 Cheapest provider (on average) Western Union",
@@ -272,7 +272,7 @@
     {
       "source": "Monito",
       "url": "https://www.monito.com/send-money/united-states/colombia/usd/cop",
-      "extractedAt": "2026-07-24T08:04:46.568Z",
+      "extractedAt": "2026-07-25T07:48:31.851Z",
       "providers": [
         "💸 Number of providers 8",
         "🏆 Most often cheapest provider Western Union",
@@ -322,7 +322,7 @@
     {
       "source": "Remitly",
       "url": "https://www.remitly.com/us/en/dominican-republic",
-      "extractedAt": "2026-07-24T08:04:47.249Z",
+      "extractedAt": "2026-07-25T07:48:32.357Z",
       "fees": [],
       "features": [],
       "contentSummary": [
