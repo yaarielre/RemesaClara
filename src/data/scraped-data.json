@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "scrapedAt": "2026-07-31T08:30:29.072Z",
+    "scrapedAt": "2026-08-01T08:00:13.462Z",
     "sourcesAttempted": 8,
     "sourcesSuccessful": 8
   },
@@ -8,7 +8,7 @@
     {
       "source": "Wise",
       "url": "https://wise.com/us/send-money/send-money-to-mexico",
-      "extractedAt": "2026-07-31T08:30:30.164Z",
+      "extractedAt": "2026-08-01T08:00:14.541Z",
       "fees": [],
       "exchangeRate": null,
       "deliveryTime": null,
@@ -22,7 +22,7 @@
         "La forma más barata de enviar dinero a México desde los EE. UU.",
         "La forma más rápida de enviar dinero a México desde los EE. UU.",
         "Envía dinero a México desde los EE. UU. con la app de Wise",
-        "4.3 / 5 en Trustpilot de un total de 295,594 reseñas",
+        "4.3 / 5 en Trustpilot de un total de 295,643 reseñas",
         "Preguntas frecuentes",
         "Descubre dónde funciona Wise",
         "Productos",
@@ -49,7 +49,7 @@
     {
       "source": "Wise",
       "url": "https://wise.com/us/send-money/send-money-to-colombia",
-      "extractedAt": "2026-07-31T08:30:31.045Z",
+      "extractedAt": "2026-08-01T08:00:15.687Z",
       "fees": [],
       "exchangeRate": null,
       "deliveryTime": null,
@@ -63,7 +63,7 @@
         "La forma más barata de enviar dinero a Colombia desde los EE. UU.",
         "La forma más rápida de enviar dinero a Colombia desde los EE. UU.",
         "Envía dinero a Colombia desde los EE. UU. con la app de Wise",
-        "4.3 / 5 en Trustpilot de un total de 295,581 reseñas",
+        "4.3 / 5 en Trustpilot de un total de 295,608 reseñas",
         "Preguntas frecuentes",
         "Descubre dónde funciona Wise",
         "Productos",
@@ -90,12 +90,12 @@
     {
       "source": "Remitly",
       "url": "https://www.remitly.com/us/en/mexico",
-      "extractedAt": "2026-07-31T08:30:31.769Z",
+      "extractedAt": "2026-08-01T08:00:16.164Z",
       "fees": [],
       "features": [],
       "contentSummary": [
         "Send money to Mexico from the United States",
-        "Get a special rate and no fees on your first transfer with Remitly. Low fees for bank deposit, mobile wallet, and debit card deposit. Every time.",
+        "Get a special rate and no fees on your first transfer with Remitly. Low fees for bank deposit, debit card deposit, and mobile wallet. Every time.",
         "Trusted by millions to send billions",
         "Make global money moves with our app",
         "Local delivery methods when sending from the United States to Mexico",
@@ -111,7 +111,6 @@
         "Mobile wallet",
         "Bank deposit",
         "Cash pickup",
-        "Debit card deposit",
         "What is the best way to send money from the United States to Mexico?",
         "How much does it cost to transfer money to Mexico?",
         "How fast can I send money from the United States to Mexico?",
@@ -123,14 +122,15 @@
         "How can I send money internationally from the United States?",
         "and more",
         "Scan the code with your phone to get the app",
-        "Cash pickup, bank deposit, mobile wallet, and more delivery options with our trusted network in Mexico. Select your preferred provider to learn more."
+        "Cash pickup, bank deposit, and mobile wallet with our trusted network in Mexico. Select your preferred provider to learn more.",
+        "©2012 - 2026 Remitly, Inc. All rights reserved"
       ],
       "sourceType": "official"
     },
     {
       "source": "Remitly",
       "url": "https://www.remitly.com/us/en/colombia",
-      "extractedAt": "2026-07-31T08:30:32.446Z",
+      "extractedAt": "2026-08-01T08:00:16.594Z",
       "fees": [],
       "features": [],
       "contentSummary": [
@@ -170,7 +170,7 @@
     {
       "source": "Western Union",
       "url": "https://www.westernunion.com/us/en/home.html",
-      "extractedAt": "2026-07-31T08:30:32.879Z",
+      "extractedAt": "2026-08-01T08:00:16.965Z",
       "fees": [
         "Fee: from {{strikedFee}} to {{fee}}",
         ": from {{strikedFee}} to {{fee}}",
@@ -222,7 +222,7 @@
     {
       "source": "Monito",
       "url": "https://www.monito.com/send-money/united-states/mexico/usd/mxn",
-      "extractedAt": "2026-07-31T08:30:33.282Z",
+      "extractedAt": "2026-08-01T08:00:17.210Z",
       "providers": [
         "💸 Number of providers 13",
         "🏆 Cheapest provider (on average) Western Union",
@@ -272,7 +272,7 @@
     {
       "source": "Monito",
       "url": "https://www.monito.com/send-money/united-states/colombia/usd/cop",
-      "extractedAt": "2026-07-31T08:30:33.477Z",
+      "extractedAt": "2026-08-01T08:00:17.342Z",
       "providers": [
         "💸 Number of providers 8",
         "🏆 Most often cheapest provider Western Union",
@@ -322,7 +322,7 @@
     {
       "source": "Remitly",
       "url": "https://www.remitly.com/us/en/dominican-republic",
-      "extractedAt": "2026-07-31T08:30:34.178Z",
+      "extractedAt": "2026-08-01T08:00:17.742Z",
       "fees": [],
       "features": [],
       "contentSummary": [
