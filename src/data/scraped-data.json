@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "scrapedAt": "2026-08-04T08:15:08.203Z",
+    "scrapedAt": "2026-08-05T08:13:27.650Z",
     "sourcesAttempted": 8,
     "sourcesSuccessful": 8
   },
@@ -8,7 +8,7 @@
     {
       "source": "Wise",
       "url": "https://wise.com/us/send-money/send-money-to-mexico",
-      "extractedAt": "2026-08-04T08:15:09.258Z",
+      "extractedAt": "2026-08-05T08:13:28.824Z",
       "fees": [],
       "exchangeRate": null,
       "deliveryTime": null,
@@ -22,7 +22,7 @@
         "La forma más barata de enviar dinero a México desde los EE. UU.",
         "La forma más rápida de enviar dinero a México desde los EE. UU.",
         "Envía dinero a México desde los EE. UU. con la app de Wise",
-        "4.3 / 5 en Trustpilot de un total de 296,207 reseñas",
+        "4.3 / 5 en Trustpilot de un total de 296,461 reseñas",
         "Preguntas frecuentes",
         "Descubre dónde funciona Wise",
         "Productos",
@@ -49,7 +49,7 @@
     {
       "source": "Wise",
       "url": "https://wise.com/us/send-money/send-money-to-colombia",
-      "extractedAt": "2026-08-04T08:15:10.117Z",
+      "extractedAt": "2026-08-05T08:13:29.849Z",
       "fees": [],
       "exchangeRate": null,
       "deliveryTime": null,
@@ -63,7 +63,7 @@
         "La forma más barata de enviar dinero a Colombia desde los EE. UU.",
         "La forma más rápida de enviar dinero a Colombia desde los EE. UU.",
         "Envía dinero a Colombia desde los EE. UU. con la app de Wise",
-        "4.3 / 5 en Trustpilot de un total de 296,212 reseñas",
+        "4.3 / 5 en Trustpilot de un total de 296,517 reseñas",
         "Preguntas frecuentes",
         "Descubre dónde funciona Wise",
         "Productos",
@@ -90,7 +90,7 @@
     {
       "source": "Remitly",
       "url": "https://www.remitly.com/us/en/mexico",
-      "extractedAt": "2026-08-04T08:15:10.742Z",
+      "extractedAt": "2026-08-05T08:13:30.484Z",
       "fees": [],
       "features": [],
       "contentSummary": [
@@ -101,6 +101,7 @@
         "Local delivery methods when sending from the United States to Mexico",
         "Chat to send money with WhatsApp",
         "What are the delivery options for transfers to Mexico?",
+        "How to send money to Mexico from the United States?",
         "Send large amounts with ease",
         "See what our customers are saying",
         "Simplify your business payments",
@@ -122,15 +123,14 @@
         "How can I send money internationally from the United States?",
         "and more",
         "Scan the code with your phone to get the app",
-        "Cash pickup, bank deposit, and mobile wallet with our trusted network in Mexico. Select your preferred provider to learn more.",
-        "©2012 - 2026 Remitly, Inc. All rights reserved"
+        "Cash pickup, bank deposit, and mobile wallet with our trusted network in Mexico. Select your preferred provider to learn more."
       ],
       "sourceType": "official"
     },
     {
       "source": "Remitly",
       "url": "https://www.remitly.com/us/en/colombia",
-      "extractedAt": "2026-08-04T08:15:11.248Z",
+      "extractedAt": "2026-08-05T08:13:30.989Z",
       "fees": [],
       "features": [],
       "contentSummary": [
@@ -141,6 +141,7 @@
         "Local delivery methods when sending from the United States to Colombia",
         "Chat to send money with WhatsApp",
         "What are the delivery options for transfers to Colombia?",
+        "How to send money to Colombia from the United States?",
         "Send large amounts with ease",
         "See what our customers are saying",
         "Simplify your business payments",
@@ -148,8 +149,8 @@
         "Know where your money goes",
         "Great value",
         "Delivery time guaranteed",
-        "Mobile wallet",
         "Bank deposit",
+        "Mobile wallet",
         "Cash pickup",
         "What is the best way to send money from the United States to Colombia?",
         "How much does it cost to transfer money to Colombia?",
@@ -162,15 +163,14 @@
         "How can I send money internationally from the United States?",
         "and more",
         "Scan the code with your phone to get the app",
-        "Cash pickup, bank deposit, mobile wallet, and more delivery options with our trusted network in Colombia. Select your preferred provider to learn more.",
-        "©2012 - 2026 Remitly, Inc. All rights reserved"
+        "Cash pickup, bank deposit, mobile wallet, and more delivery options with our trusted network in Colombia. Select your preferred provider to learn more."
       ],
       "sourceType": "official"
     },
     {
       "source": "Western Union",
       "url": "https://www.westernunion.com/us/en/home.html",
-      "extractedAt": "2026-08-04T08:15:11.637Z",
+      "extractedAt": "2026-08-05T08:13:31.253Z",
       "fees": [
         "Fee: from {{strikedFee}} to {{fee}}",
         ": from {{strikedFee}} to {{fee}}",
@@ -222,7 +222,7 @@
     {
       "source": "Monito",
       "url": "https://www.monito.com/send-money/united-states/mexico/usd/mxn",
-      "extractedAt": "2026-08-04T08:15:11.938Z",
+      "extractedAt": "2026-08-05T08:13:31.512Z",
       "providers": [
         "💸 Number of providers 13",
         "🏆 Cheapest provider (on average) Western Union",
@@ -272,7 +272,7 @@
     {
       "source": "Monito",
       "url": "https://www.monito.com/send-money/united-states/colombia/usd/cop",
-      "extractedAt": "2026-08-04T08:15:12.118Z",
+      "extractedAt": "2026-08-05T08:13:31.675Z",
       "providers": [
         "💸 Number of providers 8",
         "🏆 Most often cheapest provider Western Union",
@@ -322,7 +322,7 @@
     {
       "source": "Remitly",
       "url": "https://www.remitly.com/us/en/dominican-republic",
-      "extractedAt": "2026-08-04T08:15:12.681Z",
+      "extractedAt": "2026-08-05T08:13:32.338Z",
       "fees": [],
       "features": [],
       "contentSummary": [
@@ -333,6 +333,7 @@
         "Local delivery methods when sending from the United States to the Dominican Republic",
         "Chat to send money with WhatsApp",
         "What are the delivery options for transfers to the Dominican Republic?",
+        "How to send money to the Dominican Republic from the United States?",
         "Send large amounts with ease",
         "See what our customers are saying",
         "Simplify your business payments",
@@ -354,8 +355,7 @@
         "Can I track my money transfer from the United States to the Dominican Republic?",
         "How do I receive money from Remitly in the Dominican Republic?",
         "How can I send money internationally from the United States?",
-        "and more",
-        "Scan the code with your phone to get the app"
+        "and more"
       ],
       "sourceType": "official"
     }
