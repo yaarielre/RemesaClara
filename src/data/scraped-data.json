@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "scrapedAt": "2026-09-07T10:55:21.951Z",
+    "scrapedAt": "2026-09-08T10:12:36.180Z",
     "sourcesAttempted": 8,
     "sourcesSuccessful": 8
   },
@@ -8,9 +8,9 @@
     {
       "source": "Wise",
       "url": "https://wise.com/us/send-money/send-money-to-mexico",
-      "extractedAt": "2026-09-07T10:55:22.813Z",
+      "extractedAt": "2026-09-08T10:12:37.159Z",
       "fees": [],
-      "exchangeRate": "1 USD = 16.9046 MXN",
+      "exchangeRate": "1 USD = 16.9815 MXN",
       "deliveryTime": null,
       "contentSummary": [
         "Envíos de dinero a México",
@@ -22,7 +22,7 @@
         "La forma más barata de enviar dinero a México desde los EE. UU.",
         "La forma más rápida de enviar dinero a México desde los EE. UU.",
         "Envía dinero a México desde los EE. UU. con la app de Wise",
-        "4.3 / 5 en Trustpilot de un total de 299,596 reseñas",
+        "4.3 / 5 en Trustpilot de un total de 299,650 reseñas",
         "Preguntas frecuentes",
         "Descubre dónde funciona Wise",
         "Productos",
@@ -49,9 +49,9 @@
     {
       "source": "Wise",
       "url": "https://wise.com/us/send-money/send-money-to-colombia",
-      "extractedAt": "2026-09-07T10:55:23.637Z",
+      "extractedAt": "2026-09-08T10:12:38.054Z",
       "fees": [],
-      "exchangeRate": "1 USD = 3,131.10 COP",
+      "exchangeRate": "1 USD = 3,133.30 COP",
       "deliveryTime": null,
       "contentSummary": [
         "Envíos de dinero a Colombia",
@@ -63,7 +63,7 @@
         "La forma más barata de enviar dinero a Colombia desde los EE. UU.",
         "La forma más rápida de enviar dinero a Colombia desde los EE. UU.",
         "Envía dinero a Colombia desde los EE. UU. con la app de Wise",
-        "4.3 / 5 en Trustpilot de un total de 299,586 reseñas",
+        "4.3 / 5 en Trustpilot de un total de 299,657 reseñas",
         "Preguntas frecuentes",
         "Descubre dónde funciona Wise",
         "Productos",
@@ -77,8 +77,8 @@
         "Transferencia bancaria",
         "Tarjeta de débito",
         "Tarjeta de crédito",
-        "Apple Pay",
         "Google Pay",
+        "Apple Pay",
         "Cuenta bancaria local",
         "Transferencias baratas en el extranjero",
         "Haz un seguimiento de los tipos de cambio",
@@ -90,7 +90,7 @@
     {
       "source": "Remitly",
       "url": "https://www.remitly.com/us/en/mexico",
-      "extractedAt": "2026-09-07T10:55:24.243Z",
+      "extractedAt": "2026-09-08T10:12:38.475Z",
       "fees": [],
       "features": [],
       "contentSummary": [
@@ -130,7 +130,7 @@
     {
       "source": "Remitly",
       "url": "https://www.remitly.com/us/en/colombia",
-      "extractedAt": "2026-09-07T10:55:24.954Z",
+      "extractedAt": "2026-09-08T10:12:39.381Z",
       "fees": [],
       "features": [],
       "contentSummary": [
@@ -170,7 +170,7 @@
     {
       "source": "Western Union",
       "url": "https://www.westernunion.com/us/en/home.html",
-      "extractedAt": "2026-09-07T10:55:25.216Z",
+      "extractedAt": "2026-09-08T10:12:39.759Z",
       "fees": [
         "Fee: from {{strikedFee}} to {{fee}}",
         ": from {{strikedFee}} to {{fee}}",
@@ -222,7 +222,7 @@
     {
       "source": "Monito",
       "url": "https://www.monito.com/send-money/united-states/mexico/usd/mxn",
-      "extractedAt": "2026-09-07T10:55:25.406Z",
+      "extractedAt": "2026-09-08T10:12:40.003Z",
       "providers": [
         "💸 Number of providers 15",
         "🏆 Cheapest provider (on average) MoneyGram",
@@ -272,7 +272,7 @@
     {
       "source": "Monito",
       "url": "https://www.monito.com/send-money/united-states/colombia/usd/cop",
-      "extractedAt": "2026-09-07T10:55:25.572Z",
+      "extractedAt": "2026-09-08T10:12:40.174Z",
       "providers": [
         "💸 Number of providers 11",
         "🏆 Most often cheapest provider Western Union",
@@ -322,7 +322,7 @@
     {
       "source": "Remitly",
       "url": "https://www.remitly.com/us/en/dominican-republic",
-      "extractedAt": "2026-09-07T10:55:26.089Z",
+      "extractedAt": "2026-09-08T10:12:40.603Z",
       "fees": [],
       "features": [],
       "contentSummary": [
