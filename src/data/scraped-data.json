@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "scrapedAt": "2026-09-08T10:12:36.180Z",
+    "scrapedAt": "2026-09-09T10:16:39.670Z",
     "sourcesAttempted": 8,
     "sourcesSuccessful": 8
   },
@@ -8,9 +8,9 @@
     {
       "source": "Wise",
       "url": "https://wise.com/us/send-money/send-money-to-mexico",
-      "extractedAt": "2026-09-08T10:12:37.159Z",
+      "extractedAt": "2026-09-09T10:16:40.815Z",
       "fees": [],
-      "exchangeRate": "1 USD = 16.9815 MXN",
+      "exchangeRate": "1 USD = 16.9145 MXN",
       "deliveryTime": null,
       "contentSummary": [
         "Envíos de dinero a México",
@@ -22,7 +22,7 @@
         "La forma más barata de enviar dinero a México desde los EE. UU.",
         "La forma más rápida de enviar dinero a México desde los EE. UU.",
         "Envía dinero a México desde los EE. UU. con la app de Wise",
-        "4.3 / 5 en Trustpilot de un total de 299,650 reseñas",
+        "4.3 / 5 en Trustpilot de un total de 299,709 reseñas",
         "Preguntas frecuentes",
         "Descubre dónde funciona Wise",
         "Productos",
@@ -36,8 +36,8 @@
         "Transferencia bancaria",
         "Tarjeta de débito",
         "Tarjeta de crédito",
-        "Apple Pay",
         "Google Pay",
+        "Apple Pay",
         "Cuenta bancaria local",
         "Transferencias baratas en el extranjero",
         "Haz un seguimiento de los tipos de cambio",
@@ -49,9 +49,9 @@
     {
       "source": "Wise",
       "url": "https://wise.com/us/send-money/send-money-to-colombia",
-      "extractedAt": "2026-09-08T10:12:38.054Z",
+      "extractedAt": "2026-09-09T10:16:41.748Z",
       "fees": [],
-      "exchangeRate": "1 USD = 3,133.30 COP",
+      "exchangeRate": "1 USD = 3,110.83 COP",
       "deliveryTime": null,
       "contentSummary": [
         "Envíos de dinero a Colombia",
@@ -63,7 +63,7 @@
         "La forma más barata de enviar dinero a Colombia desde los EE. UU.",
         "La forma más rápida de enviar dinero a Colombia desde los EE. UU.",
         "Envía dinero a Colombia desde los EE. UU. con la app de Wise",
-        "4.3 / 5 en Trustpilot de un total de 299,657 reseñas",
+        "4.3 / 5 en Trustpilot de un total de 299,709 reseñas",
         "Preguntas frecuentes",
         "Descubre dónde funciona Wise",
         "Productos",
@@ -90,7 +90,7 @@
     {
       "source": "Remitly",
       "url": "https://www.remitly.com/us/en/mexico",
-      "extractedAt": "2026-09-08T10:12:38.475Z",
+      "extractedAt": "2026-09-09T10:16:42.617Z",
       "fees": [],
       "features": [],
       "contentSummary": [
@@ -130,7 +130,7 @@
     {
       "source": "Remitly",
       "url": "https://www.remitly.com/us/en/colombia",
-      "extractedAt": "2026-09-08T10:12:39.381Z",
+      "extractedAt": "2026-09-09T10:16:44.293Z",
       "fees": [],
       "features": [],
       "contentSummary": [
@@ -170,16 +170,11 @@
     {
       "source": "Western Union",
       "url": "https://www.westernunion.com/us/en/home.html",
-      "extractedAt": "2026-09-08T10:12:39.759Z",
+      "extractedAt": "2026-09-09T10:16:44.714Z",
       "fees": [
-        "Fee: from {{strikedFee}} to {{fee}}",
-        ": from {{strikedFee}} to {{fee}}",
-        "You save {{feeDifference}} on fee",
         "Our fees {{strikedFeeNotRed}} {{fee}}100% off100% off",
         "{{strikedFeeNotRed}} {{fee}}",
         "100% off",
-        "Send money online from the United States at our best priceRegister now to get a better exchange rate and $0 fee on your first online transfer internationally*.Check ratesFee: from {{strikedFee}} to {{fee}}Fx: 1.00 USD = from  to  Send amount USDYou save {{feeDifference}} on feeSend up to Receiver gets USD   Receiver gets {{extraMoney}} moreStart nowSend money online, available for pickup in minutes5*Western Union makes money from FX. Exchange rate shown is an estimate for an account-to-account transfer and subject to change. Offer not available for Quick Collect, credit cards. Smarter. Safer. Together. Learn how to #BeFraudSmart.Smarter. Safer. Together. Learn how to #BeFraudSmart.",
-        "Receiver gets {{extraMoney}} more",
         "Send money online from the United States at our best price Join millions of customers around the world and start sending and receiving money with Western Union.    Excellent{{number_of_reviews}}+ reviews Smarter. Safer. Together. Learn how to #BeFraudSmart.Get a 0 USD transfer fee* on your first online transfer!Check*, confirm, and send in minutes. It’s that easy. You’re sending USDSend up to Your receiver gets USD   Exchange rateOur fees {{strikedFeeNotRed}} {{fee}}100% off100% offDelivery time In minutesTotal Amount 100 USDSend now*Western Union makes money from FX. Fees and rates subject to change without notice. Offer not available for Quick Collect, transfers within the United Sates, credit cards and Google Play.    Great112,576+ reviews Smarter. Safer. Together. Learn how to #BeFraudSmart.",
         "Join millions of customers around the world and start sending and receiving money with Western Union.",
         "Send up to",
@@ -206,23 +201,23 @@
         "How can I send someone money immediately?",
         "How do I send money to someone with Western Union?",
         "Does Western Union have a digital wallet?",
-        "Register now to get a better exchange rate and $0 fee on your first online transfer internationally*.",
-        "Check rates",
-        ": from {{strikedFee}} to {{fee}}",
-        "Fx: 1.00 USD = from  to",
-        "*Western Union makes money from FX. Exchange rate shown is an estimate for an account-to-account transfer and subject to change. Offer not available for Quick Collect, credit cards.",
-        "Smarter. Safer. Together. Learn how to #BeFraudSmart.",
         "Join millions of customers around the world and start sending and receiving money with Western Union.",
         "Excellent{{number_of_reviews}}+ reviews",
+        "Smarter. Safer. Together. Learn how to #BeFraudSmart.",
         "Get a 0 USD transfer fee* on your first online transfer!",
-        "Check*, confirm, and send in minutes. It’s that easy."
+        "Check*, confirm, and send in minutes. It’s that easy.",
+        "Exchange rate",
+        "{{strikedFeeNotRed}} {{fee}}",
+        "100% off",
+        "Great112,576+ reviews",
+        "Western Union profile is specific to your registration country. Make sure you’re on the right country’s website."
       ],
       "sourceType": "official"
     },
     {
       "source": "Monito",
       "url": "https://www.monito.com/send-money/united-states/mexico/usd/mxn",
-      "extractedAt": "2026-09-08T10:12:40.003Z",
+      "extractedAt": "2026-09-09T10:16:45.169Z",
       "providers": [
         "💸 Number of providers 15",
         "🏆 Cheapest provider (on average) MoneyGram",
@@ -272,7 +267,7 @@
     {
       "source": "Monito",
       "url": "https://www.monito.com/send-money/united-states/colombia/usd/cop",
-      "extractedAt": "2026-09-08T10:12:40.174Z",
+      "extractedAt": "2026-09-09T10:16:45.432Z",
       "providers": [
         "💸 Number of providers 11",
         "🏆 Most often cheapest provider Western Union",
@@ -322,7 +317,7 @@
     {
       "source": "Remitly",
       "url": "https://www.remitly.com/us/en/dominican-republic",
-      "extractedAt": "2026-09-08T10:12:40.603Z",
+      "extractedAt": "2026-09-09T10:16:45.962Z",
       "fees": [],
       "features": [],
       "contentSummary": [
