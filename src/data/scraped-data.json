@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "scrapedAt": "2026-09-20T10:13:35.524Z",
+    "scrapedAt": "2026-09-21T11:18:04.670Z",
     "sourcesAttempted": 8,
     "sourcesSuccessful": 8
   },
@@ -8,9 +8,9 @@
     {
       "source": "Wise",
       "url": "https://wise.com/us/send-money/send-money-to-mexico",
-      "extractedAt": "2026-09-20T10:13:36.480Z",
+      "extractedAt": "2026-09-21T11:18:05.771Z",
       "fees": [],
-      "exchangeRate": "1 USD = 17.2285 MXN",
+      "exchangeRate": "1 USD = 17.2031 MXN",
       "deliveryTime": null,
       "contentSummary": [
         "Envíos de dinero a México",
@@ -22,7 +22,7 @@
         "La forma más barata de enviar dinero a México desde los EE. UU.",
         "La forma más rápida de enviar dinero a México desde los EE. UU.",
         "Envía dinero a México desde los EE. UU. con la app de Wise",
-        "4.3 / 5 en Trustpilot de un total de 301,075 reseñas",
+        "4.3 / 5 en Trustpilot de un total de 301,134 reseñas",
         "Preguntas frecuentes",
         "Descubre dónde funciona Wise",
         "Productos",
@@ -36,8 +36,8 @@
         "Transferencia bancaria",
         "Tarjeta de débito",
         "Tarjeta de crédito",
-        "Google Pay",
         "Apple Pay",
+        "Google Pay",
         "Cuenta bancaria local",
         "Transferencias baratas en el extranjero",
         "Haz un seguimiento de los tipos de cambio",
@@ -49,9 +49,9 @@
     {
       "source": "Wise",
       "url": "https://wise.com/us/send-money/send-money-to-colombia",
-      "extractedAt": "2026-09-20T10:13:37.235Z",
+      "extractedAt": "2026-09-21T11:18:06.654Z",
       "fees": [],
-      "exchangeRate": "1 USD = 3,183.50 COP",
+      "exchangeRate": "1 USD = 3,177.95 COP",
       "deliveryTime": null,
       "contentSummary": [
         "Envíos de dinero a Colombia",
@@ -63,7 +63,7 @@
         "La forma más barata de enviar dinero a Colombia desde los EE. UU.",
         "La forma más rápida de enviar dinero a Colombia desde los EE. UU.",
         "Envía dinero a Colombia desde los EE. UU. con la app de Wise",
-        "4.3 / 5 en Trustpilot de un total de 301,075 reseñas",
+        "4.3 / 5 en Trustpilot de un total de 301,134 reseñas",
         "Preguntas frecuentes",
         "Descubre dónde funciona Wise",
         "Productos",
@@ -77,8 +77,8 @@
         "Transferencia bancaria",
         "Tarjeta de débito",
         "Tarjeta de crédito",
-        "Google Pay",
         "Apple Pay",
+        "Google Pay",
         "Cuenta bancaria local",
         "Transferencias baratas en el extranjero",
         "Haz un seguimiento de los tipos de cambio",
@@ -90,7 +90,7 @@
     {
       "source": "Remitly",
       "url": "https://www.remitly.com/us/en/mexico",
-      "extractedAt": "2026-09-20T10:13:38.011Z",
+      "extractedAt": "2026-09-21T11:18:07.241Z",
       "fees": [],
       "features": [],
       "contentSummary": [
@@ -130,7 +130,7 @@
     {
       "source": "Remitly",
       "url": "https://www.remitly.com/us/en/colombia",
-      "extractedAt": "2026-09-20T10:13:38.602Z",
+      "extractedAt": "2026-09-21T11:18:07.802Z",
       "fees": [],
       "features": [],
       "contentSummary": [
@@ -170,7 +170,7 @@
     {
       "source": "Western Union",
       "url": "https://www.westernunion.com/us/en/home.html",
-      "extractedAt": "2026-09-20T10:13:39.016Z",
+      "extractedAt": "2026-09-21T11:18:08.147Z",
       "fees": [
         "Our fees {{strikedFeeNotRed}} {{fee}}100% off100% off",
         "{{strikedFeeNotRed}} {{fee}}",
@@ -217,7 +217,7 @@
     {
       "source": "Monito",
       "url": "https://www.monito.com/send-money/united-states/mexico/usd/mxn",
-      "extractedAt": "2026-09-20T10:13:39.413Z",
+      "extractedAt": "2026-09-21T11:18:08.429Z",
       "providers": [
         "💸 Number of providers 15",
         "🏆 Cheapest provider (on average) MoneyGram",
@@ -267,7 +267,7 @@
     {
       "source": "Monito",
       "url": "https://www.monito.com/send-money/united-states/colombia/usd/cop",
-      "extractedAt": "2026-09-20T10:13:39.701Z",
+      "extractedAt": "2026-09-21T11:18:08.594Z",
       "providers": [
         "💸 Number of providers 11",
         "🏆 Most often cheapest provider Western Union",
@@ -317,7 +317,7 @@
     {
       "source": "Remitly",
       "url": "https://www.remitly.com/us/en/dominican-republic",
-      "extractedAt": "2026-09-20T10:13:40.287Z",
+      "extractedAt": "2026-09-21T11:18:09.144Z",
       "fees": [],
       "features": [],
       "contentSummary": [
