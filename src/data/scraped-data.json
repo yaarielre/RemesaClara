@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "scrapedAt": "2026-09-26T10:26:55.616Z",
+    "scrapedAt": "2026-09-27T10:57:48.298Z",
     "sourcesAttempted": 8,
     "sourcesSuccessful": 8
   },
@@ -8,7 +8,7 @@
     {
       "source": "Wise",
       "url": "https://wise.com/us/send-money/send-money-to-mexico",
-      "extractedAt": "2026-09-26T10:26:56.661Z",
+      "extractedAt": "2026-09-27T10:57:49.233Z",
       "fees": [],
       "exchangeRate": "1 USD = 17.6798 MXN",
       "deliveryTime": null,
@@ -22,7 +22,7 @@
         "La forma más barata de enviar dinero a México desde los EE. UU.",
         "La forma más rápida de enviar dinero a México desde los EE. UU.",
         "Envía dinero a México desde los EE. UU. con la app de Wise",
-        "4.3 / 5 en Trustpilot de un total de 301,455 reseñas",
+        "4.3 / 5 en Trustpilot de un total de 301,482 reseñas",
         "Preguntas frecuentes",
         "Descubre dónde funciona Wise",
         "Productos",
@@ -36,8 +36,8 @@
         "Transferencia bancaria",
         "Tarjeta de débito",
         "Tarjeta de crédito",
-        "Apple Pay",
         "Google Pay",
+        "Apple Pay",
         "Cuenta bancaria local",
         "Transferencias baratas en el extranjero",
         "Haz un seguimiento de los tipos de cambio",
@@ -49,7 +49,7 @@
     {
       "source": "Wise",
       "url": "https://wise.com/us/send-money/send-money-to-colombia",
-      "extractedAt": "2026-09-26T10:26:57.492Z",
+      "extractedAt": "2026-09-27T10:57:49.996Z",
       "fees": [],
       "exchangeRate": "1 USD = 3,291.00 COP",
       "deliveryTime": null,
@@ -63,7 +63,7 @@
         "La forma más barata de enviar dinero a Colombia desde los EE. UU.",
         "La forma más rápida de enviar dinero a Colombia desde los EE. UU.",
         "Envía dinero a Colombia desde los EE. UU. con la app de Wise",
-        "4.3 / 5 en Trustpilot de un total de 301,424 reseñas",
+        "4.3 / 5 en Trustpilot de un total de 301,519 reseñas",
         "Preguntas frecuentes",
         "Descubre dónde funciona Wise",
         "Productos",
@@ -77,8 +77,8 @@
         "Transferencia bancaria",
         "Tarjeta de débito",
         "Tarjeta de crédito",
-        "Google Pay",
         "Apple Pay",
+        "Google Pay",
         "Cuenta bancaria local",
         "Transferencias baratas en el extranjero",
         "Haz un seguimiento de los tipos de cambio",
@@ -90,7 +90,7 @@
     {
       "source": "Remitly",
       "url": "https://www.remitly.com/us/en/mexico",
-      "extractedAt": "2026-09-26T10:26:58.387Z",
+      "extractedAt": "2026-09-27T10:57:50.632Z",
       "fees": [],
       "features": [],
       "contentSummary": [
@@ -130,7 +130,7 @@
     {
       "source": "Remitly",
       "url": "https://www.remitly.com/us/en/colombia",
-      "extractedAt": "2026-09-26T10:26:58.937Z",
+      "extractedAt": "2026-09-27T10:57:51.161Z",
       "fees": [],
       "features": [],
       "contentSummary": [
@@ -170,7 +170,7 @@
     {
       "source": "Western Union",
       "url": "https://www.westernunion.com/us/en/home.html",
-      "extractedAt": "2026-09-26T10:26:59.487Z",
+      "extractedAt": "2026-09-27T10:57:51.613Z",
       "fees": [
         "Our fees {{strikedFeeNotRed}} {{fee}}100% off100% off",
         "{{strikedFeeNotRed}} {{fee}}",
@@ -217,7 +217,7 @@
     {
       "source": "Monito",
       "url": "https://www.monito.com/send-money/united-states/mexico/usd/mxn",
-      "extractedAt": "2026-09-26T10:26:59.920Z",
+      "extractedAt": "2026-09-27T10:57:51.857Z",
       "providers": [
         "💸 Number of providers 15",
         "🏆 Cheapest provider (on average) MoneyGram",
@@ -267,7 +267,7 @@
     {
       "source": "Monito",
       "url": "https://www.monito.com/send-money/united-states/colombia/usd/cop",
-      "extractedAt": "2026-09-26T10:27:00.201Z",
+      "extractedAt": "2026-09-27T10:57:52.004Z",
       "providers": [
         "💸 Number of providers 11",
         "🏆 Most often cheapest provider Western Union",
@@ -317,7 +317,7 @@
     {
       "source": "Remitly",
       "url": "https://www.remitly.com/us/en/dominican-republic",
-      "extractedAt": "2026-09-26T10:27:00.719Z",
+      "extractedAt": "2026-09-27T10:57:52.484Z",
       "fees": [],
       "features": [],
       "contentSummary": [
