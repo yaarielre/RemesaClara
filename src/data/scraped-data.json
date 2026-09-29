@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "scrapedAt": "2026-09-28T12:13:23.237Z",
+    "scrapedAt": "2026-09-29T11:43:23.376Z",
     "sourcesAttempted": 8,
     "sourcesSuccessful": 8
   },
@@ -8,9 +8,9 @@
     {
       "source": "Wise",
       "url": "https://wise.com/us/send-money/send-money-to-mexico",
-      "extractedAt": "2026-09-28T12:13:24.202Z",
+      "extractedAt": "2026-09-29T11:43:24.413Z",
       "fees": [],
-      "exchangeRate": "1 USD = 17.7667 MXN",
+      "exchangeRate": "1 USD = 17.9245 MXN",
       "deliveryTime": null,
       "contentSummary": [
         "Envíos de dinero a México",
@@ -22,7 +22,7 @@
         "La forma más barata de enviar dinero a México desde los EE. UU.",
         "La forma más rápida de enviar dinero a México desde los EE. UU.",
         "Envía dinero a México desde los EE. UU. con la app de Wise",
-        "4.3 / 5 en Trustpilot de un total de 301,591 reseñas",
+        "4.3 / 5 en Trustpilot de un total de 301,658 reseñas",
         "Preguntas frecuentes",
         "Descubre dónde funciona Wise",
         "Productos",
@@ -49,9 +49,9 @@
     {
       "source": "Wise",
       "url": "https://wise.com/us/send-money/send-money-to-colombia",
-      "extractedAt": "2026-09-28T12:13:24.984Z",
+      "extractedAt": "2026-09-29T11:43:25.253Z",
       "fees": [],
-      "exchangeRate": "1 USD = 3,307.44 COP",
+      "exchangeRate": "1 USD = 3,366.00 COP",
       "deliveryTime": null,
       "contentSummary": [
         "Envíos de dinero a Colombia",
@@ -63,7 +63,7 @@
         "La forma más barata de enviar dinero a Colombia desde los EE. UU.",
         "La forma más rápida de enviar dinero a Colombia desde los EE. UU.",
         "Envía dinero a Colombia desde los EE. UU. con la app de Wise",
-        "4.3 / 5 en Trustpilot de un total de 301,597 reseñas",
+        "4.3 / 5 en Trustpilot de un total de 301,610 reseñas",
         "Preguntas frecuentes",
         "Descubre dónde funciona Wise",
         "Productos",
@@ -77,8 +77,8 @@
         "Transferencia bancaria",
         "Tarjeta de débito",
         "Tarjeta de crédito",
-        "Apple Pay",
         "Google Pay",
+        "Apple Pay",
         "Cuenta bancaria local",
         "Transferencias baratas en el extranjero",
         "Haz un seguimiento de los tipos de cambio",
@@ -90,7 +90,7 @@
     {
       "source": "Remitly",
       "url": "https://www.remitly.com/us/en/mexico",
-      "extractedAt": "2026-09-28T12:13:25.612Z",
+      "extractedAt": "2026-09-29T11:43:25.823Z",
       "fees": [],
       "features": [],
       "contentSummary": [
@@ -130,7 +130,7 @@
     {
       "source": "Remitly",
       "url": "https://www.remitly.com/us/en/colombia",
-      "extractedAt": "2026-09-28T12:13:26.969Z",
+      "extractedAt": "2026-09-29T11:43:26.443Z",
       "fees": [],
       "features": [],
       "contentSummary": [
@@ -170,7 +170,7 @@
     {
       "source": "Western Union",
       "url": "https://www.westernunion.com/us/en/home.html",
-      "extractedAt": "2026-09-28T12:13:27.186Z",
+      "extractedAt": "2026-09-29T11:43:26.823Z",
       "fees": [
         "Our fees {{strikedFeeNotRed}} {{fee}}100% off100% off",
         "{{strikedFeeNotRed}} {{fee}}",
@@ -217,7 +217,7 @@
     {
       "source": "Monito",
       "url": "https://www.monito.com/send-money/united-states/mexico/usd/mxn",
-      "extractedAt": "2026-09-28T12:13:27.548Z",
+      "extractedAt": "2026-09-29T11:43:27.097Z",
       "providers": [
         "💸 Number of providers 15",
         "🏆 Cheapest provider (on average) MoneyGram",
@@ -267,7 +267,7 @@
     {
       "source": "Monito",
       "url": "https://www.monito.com/send-money/united-states/colombia/usd/cop",
-      "extractedAt": "2026-09-28T12:13:27.712Z",
+      "extractedAt": "2026-09-29T11:43:27.236Z",
       "providers": [
         "💸 Number of providers 11",
         "🏆 Most often cheapest provider Western Union",
@@ -317,7 +317,7 @@
     {
       "source": "Remitly",
       "url": "https://www.remitly.com/us/en/dominican-republic",
-      "extractedAt": "2026-09-28T12:13:28.490Z",
+      "extractedAt": "2026-09-29T11:43:27.819Z",
       "fees": [],
       "features": [],
       "contentSummary": [
