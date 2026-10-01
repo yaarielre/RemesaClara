@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "scrapedAt": "2026-09-30T11:29:58.523Z",
+    "scrapedAt": "2026-10-01T11:58:28.629Z",
     "sourcesAttempted": 8,
     "sourcesSuccessful": 8
   },
@@ -8,9 +8,9 @@
     {
       "source": "Wise",
       "url": "https://wise.com/us/send-money/send-money-to-mexico",
-      "extractedAt": "2026-09-30T11:29:59.499Z",
+      "extractedAt": "2026-10-01T11:58:29.702Z",
       "fees": [],
-      "exchangeRate": "1 USD = 18.1033 MXN",
+      "exchangeRate": "1 USD = 18.1460 MXN",
       "deliveryTime": null,
       "contentSummary": [
         "Envíos de dinero a México",
@@ -22,7 +22,7 @@
         "La forma más barata de enviar dinero a México desde los EE. UU.",
         "La forma más rápida de enviar dinero a México desde los EE. UU.",
         "Envía dinero a México desde los EE. UU. con la app de Wise",
-        "4.3 / 5 en Trustpilot de un total de 301,671 reseñas",
+        "4.3 / 5 en Trustpilot de un total de 301,823 reseñas",
         "Preguntas frecuentes",
         "Descubre dónde funciona Wise",
         "Productos",
@@ -49,9 +49,9 @@
     {
       "source": "Wise",
       "url": "https://wise.com/us/send-money/send-money-to-colombia",
-      "extractedAt": "2026-09-30T11:30:00.420Z",
+      "extractedAt": "2026-10-01T11:58:30.542Z",
       "fees": [],
-      "exchangeRate": "1 USD = 3,327.00 COP",
+      "exchangeRate": "1 USD = 3,295.00 COP",
       "deliveryTime": null,
       "contentSummary": [
         "Envíos de dinero a Colombia",
@@ -63,7 +63,7 @@
         "La forma más barata de enviar dinero a Colombia desde los EE. UU.",
         "La forma más rápida de enviar dinero a Colombia desde los EE. UU.",
         "Envía dinero a Colombia desde los EE. UU. con la app de Wise",
-        "4.3 / 5 en Trustpilot de un total de 301,671 reseñas",
+        "4.3 / 5 en Trustpilot de un total de 301,823 reseñas",
         "Preguntas frecuentes",
         "Descubre dónde funciona Wise",
         "Productos",
@@ -90,7 +90,7 @@
     {
       "source": "Remitly",
       "url": "https://www.remitly.com/us/en/mexico",
-      "extractedAt": "2026-09-30T11:30:01.060Z",
+      "extractedAt": "2026-10-01T11:58:31.181Z",
       "fees": [],
       "features": [],
       "contentSummary": [
@@ -120,7 +120,7 @@
         "How do I set up my first money transfer?",
         "Can I track my money transfer from the United States to Mexico?",
         "How do I receive money from Remitly in Mexico?",
-        "How can I send money internationally from the United States?",
+        "How can I send money internationally from the United States to Mexico?",
         "and more",
         "Scan the code with your phone to get the app",
         "Cash pickup, bank deposit, and mobile wallet with our trusted network in Mexico. Select your preferred provider to learn more."
@@ -130,7 +130,7 @@
     {
       "source": "Remitly",
       "url": "https://www.remitly.com/us/en/colombia",
-      "extractedAt": "2026-09-30T11:30:01.711Z",
+      "extractedAt": "2026-10-01T11:58:31.716Z",
       "fees": [],
       "features": [],
       "contentSummary": [
@@ -160,7 +160,7 @@
         "How do I set up my first money transfer?",
         "Can I track my money transfer from the United States to Colombia?",
         "How do I receive money from Remitly in Colombia?",
-        "How can I send money internationally from the United States?",
+        "How can I send money internationally from the United States to Colombia?",
         "and more",
         "Scan the code with your phone to get the app",
         "Cash pickup, bank deposit, mobile wallet, and more delivery options with our trusted network in Colombia. Select your preferred provider to learn more."
@@ -170,7 +170,7 @@
     {
       "source": "Western Union",
       "url": "https://www.westernunion.com/us/en/home.html",
-      "extractedAt": "2026-09-30T11:30:01.992Z",
+      "extractedAt": "2026-10-01T11:58:32.049Z",
       "fees": [
         "Our fees {{strikedFeeNotRed}} {{fee}}100% off100% off",
         "{{strikedFeeNotRed}} {{fee}}",
@@ -217,7 +217,7 @@
     {
       "source": "Monito",
       "url": "https://www.monito.com/send-money/united-states/mexico/usd/mxn",
-      "extractedAt": "2026-09-30T11:30:02.266Z",
+      "extractedAt": "2026-10-01T11:58:32.324Z",
       "providers": [
         "💸 Number of providers 15",
         "🏆 Cheapest provider (on average) MoneyGram",
@@ -267,7 +267,7 @@
     {
       "source": "Monito",
       "url": "https://www.monito.com/send-money/united-states/colombia/usd/cop",
-      "extractedAt": "2026-09-30T11:30:02.466Z",
+      "extractedAt": "2026-10-01T11:58:32.479Z",
       "providers": [
         "💸 Number of providers 11",
         "🏆 Most often cheapest provider Western Union",
@@ -317,7 +317,7 @@
     {
       "source": "Remitly",
       "url": "https://www.remitly.com/us/en/dominican-republic",
-      "extractedAt": "2026-09-30T11:30:03.097Z",
+      "extractedAt": "2026-10-01T11:58:33.015Z",
       "fees": [],
       "features": [],
       "contentSummary": [
@@ -348,7 +348,7 @@
         "How do I set up my first money transfer?",
         "Can I track my money transfer from the United States to the Dominican Republic?",
         "How do I receive money from Remitly in the Dominican Republic?",
-        "How can I send money internationally from the United States?",
+        "How can I send money internationally from the United States to the Dominican Republic?",
         "and more",
         "Scan the code with your phone to get the app"
       ],
