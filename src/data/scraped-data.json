@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "scrapedAt": "2026-10-23T10:38:18.184Z",
+    "scrapedAt": "2026-10-24T09:56:08.438Z",
     "sourcesAttempted": 8,
     "sourcesSuccessful": 8
   },
@@ -8,9 +8,9 @@
     {
       "source": "Wise",
       "url": "https://wise.com/us/send-money/send-money-to-mexico",
-      "extractedAt": "2026-10-23T10:38:19.247Z",
+      "extractedAt": "2026-10-24T09:56:09.384Z",
       "fees": [],
-      "exchangeRate": "1 USD = 18.7790 MXN",
+      "exchangeRate": "1 USD = 18.6700 MXN",
       "deliveryTime": null,
       "contentSummary": [
         "Envíos de dinero a México",
@@ -22,7 +22,7 @@
         "La forma más barata de enviar dinero a México desde los EE. UU.",
         "La forma más rápida de enviar dinero a México desde los EE. UU.",
         "Envía dinero a México desde los EE. UU. con la app de Wise",
-        "4.3 / 5 en Trustpilot de un total de 303,542 reseñas",
+        "4.3 / 5 en Trustpilot de un total de 303,571 reseñas",
         "Preguntas frecuentes",
         "Descubre dónde funciona Wise",
         "Productos",
@@ -36,8 +36,8 @@
         "Transferencia bancaria",
         "Tarjeta de débito",
         "Tarjeta de crédito",
-        "Google Pay",
         "Apple Pay",
+        "Google Pay",
         "Cuenta bancaria local",
         "Transferencias baratas en el extranjero",
         "Haz un seguimiento de los tipos de cambio",
@@ -49,9 +49,9 @@
     {
       "source": "Wise",
       "url": "https://wise.com/us/send-money/send-money-to-colombia",
-      "extractedAt": "2026-10-23T10:38:20.453Z",
+      "extractedAt": "2026-10-24T09:56:10.167Z",
       "fees": [],
-      "exchangeRate": "1 USD = 3,182.63 COP",
+      "exchangeRate": "1 USD = 3,133.21 COP",
       "deliveryTime": null,
       "contentSummary": [
         "Envíos de dinero a Colombia",
@@ -63,7 +63,7 @@
         "La forma más barata de enviar dinero a Colombia desde los EE. UU.",
         "La forma más rápida de enviar dinero a Colombia desde los EE. UU.",
         "Envía dinero a Colombia desde los EE. UU. con la app de Wise",
-        "4.3 / 5 en Trustpilot de un total de 303,542 reseñas",
+        "4.3 / 5 en Trustpilot de un total de 303,571 reseñas",
         "Preguntas frecuentes",
         "Descubre dónde funciona Wise",
         "Productos",
@@ -77,8 +77,8 @@
         "Transferencia bancaria",
         "Tarjeta de débito",
         "Tarjeta de crédito",
-        "Google Pay",
         "Apple Pay",
+        "Google Pay",
         "Cuenta bancaria local",
         "Transferencias baratas en el extranjero",
         "Haz un seguimiento de los tipos de cambio",
@@ -90,7 +90,7 @@
     {
       "source": "Remitly",
       "url": "https://www.remitly.com/us/en/mexico",
-      "extractedAt": "2026-10-23T10:38:20.968Z",
+      "extractedAt": "2026-10-24T09:56:10.837Z",
       "fees": [],
       "features": [],
       "contentSummary": [
@@ -130,47 +130,22 @@
     {
       "source": "Remitly",
       "url": "https://www.remitly.com/us/en/colombia",
-      "extractedAt": "2026-10-23T10:38:21.437Z",
+      "extractedAt": "2026-10-24T09:56:11.047Z",
       "fees": [],
       "features": [],
       "contentSummary": [
-        "Send money to Colombia from the United States",
-        "Get a special rate and no fees on your first transfer with Remitly",
-        "Trusted by millions to send billions",
-        "Make global money moves with our app",
-        "Local delivery methods when sending from the United States to Colombia",
-        "Chat to send money with WhatsApp",
-        "What are the delivery options for transfers to Colombia?",
-        "How to send money to Colombia from the United States?",
-        "Send large amounts with ease",
-        "See what our customers are saying",
-        "Simplify your business payments",
-        "Get help with sending money from the United States to Colombia",
-        "Know where your money goes",
-        "Great value",
-        "Delivery time guaranteed",
-        "Bank deposit",
-        "Cash pickup",
-        "Mobile wallet",
-        "What is the best way to send money from the United States to Colombia?",
-        "How much does it cost to transfer money to Colombia?",
-        "How fast can I send money from the United States to Colombia?",
-        "How can I pay for my online money transfer to Colombia from the United States?",
-        "What are the sending limits to Colombia?",
-        "How do I set up my first money transfer?",
-        "Can I track my money transfer from the United States to Colombia?",
-        "How do I receive money from Remitly in Colombia?",
-        "How can I send money internationally from the United States to Colombia?",
-        "and more",
+        "Confirm It’s You",
+        "Download the Remitly app",
         "Scan the code with your phone to get the app",
-        "Cash pickup, bank deposit, mobile wallet, and more delivery options with our trusted network in Colombia. Select your preferred provider to learn more."
+        "©2012 – document.write(new Date().getFullYear()); Remitly, Inc. All rights reserved",
+        "NMLS ID #1028236"
       ],
       "sourceType": "official"
     },
     {
       "source": "Western Union",
       "url": "https://www.westernunion.com/us/en/home.html",
-      "extractedAt": "2026-10-23T10:38:22.095Z",
+      "extractedAt": "2026-10-24T09:56:11.372Z",
       "fees": [
         "Our fees {{strikedFeeNotRed}} {{fee}}100% off100% off",
         "{{strikedFeeNotRed}} {{fee}}",
@@ -217,17 +192,17 @@
     {
       "source": "Monito",
       "url": "https://www.monito.com/send-money/united-states/mexico/usd/mxn",
-      "extractedAt": "2026-10-23T10:38:22.387Z",
+      "extractedAt": "2026-10-24T09:56:11.897Z",
       "providers": [
         "💸 Number of providers 15",
         "🏆 Cheapest provider (on average) MoneyGram",
-        "💰 Lowest total cost (on average) -1.5%",
-        "💰 Highest total cost (on average) 11.5%",
+        "💰 Lowest total cost (on average) -1.6%",
+        "💰 Highest total cost (on average) 11.8%",
         "💸 Most transferred amount 100 USD",
         "⚡ ️Fastest transfer time In minutes",
-        "💳 Pay-in options Credit card, Debit card, Bank transfer, Cash, International bank transfer, Direct bank payment",
-        "💵 Pay-out options Card, Bank account, Cash pickup, Mobile wallet, Bank account (via international transfer), Cash delivery, Airtime top-up, payout.BILL",
-        "👍 Recommended providers MoneyGram, Wise, Remitly, XE Money Transfer, Paysend, Revolut, Ria, WorldRemit, Currency Solutions, OFX, Instarem, CurrencyFair, Xoom"
+        "💳 Pay-in options Debit card, Credit card, Bank transfer, Cash, Direct bank payment, International bank transfer",
+        "💵 Pay-out options Card, Mobile wallet, Bank account, Cash pickup, Bank account (via international transfer), Airtime top-up, Cash delivery, payout.BILL",
+        "👍 Recommended providers XE Money Transfer, Instarem, MoneyGram, Remitly, Wise, Paysend, Revolut, Ria, OFX, CurrencyFair, WorldRemit, Xoom, Currency Solutions"
       ],
       "bestOption": "10 Best Money Transfer Services  International Money Transfers Explained    ➜   Compare Providers compare   Best Money Transfers  Top Guides  Popular Transfer Routes  Popular Transfer Destinations  Bank Reviews  Exchange Rates  SWIFT Codes  Best Money Transfers  Wise  Western Union  Remitly  WorldRemit  MoneyGram  Skrill  Paysend  Remitly vs Wise  Wise vs Western Union  XE vs Wise  Wise vs Xoom Top Guides  Cheapest ways to send money abroad  Fastest ways to send money abroad  How to send money abroad instantly  Specialist providers vs. banks  Safety when sending money abroad  All about receiving international transfers Popular Transfer Routes  Send money from the US to India  Send money from the US to Mexico  Send money from the US to the Philippines  Send money from the US to Canada  Send money from Canada to the US  Send money from Canada to Nigeria  Send money from Canada to India  Send money from the UK to India  Send money from the UAE to India  Send money from the UK to Pakistan  Send money from the UK to Nigeria  Send money from Mexico to the US  Send money from Saudi Arabia to India  Send money from USA to Colombia  Send money from Malaysia to Indonesia  Send money from the UK to the US  Send money from the US to Pakistan  Send money from the Canada to the Philippines  Send money from Canada to Pakistan  Find your countries Popular Transfer Destinations  Send money to India  Send money to Thailand  Send money to the Dominican Republic  Send money to Brazil  Send money to Russia  Send money to Ukraine  Send money to Mexico  Send money to Pakistan  Find your country Bank Reviews  Bank of America  Wells Fargo  Citibank  Capital One  HSBC  Natwest  Barclays  Lloyds Bank  BMO  Scotiabank  TD Bank Exchange Rates  USD to EUR  USD to NGN  EUR to INR  CAD to USD  USD to INR  USD to GBP  USD to CAD SWIFT Codes  Chase SWIFT  BPI SWIFT  BDO SWIFT  Metrobank SWIFT  HSBC SWIFT  Wells Fargo SWIFT  BMO SWIFT",
       "contentSummary": [
@@ -267,16 +242,16 @@
     {
       "source": "Monito",
       "url": "https://www.monito.com/send-money/united-states/colombia/usd/cop",
-      "extractedAt": "2026-10-23T10:38:22.533Z",
+      "extractedAt": "2026-10-24T09:56:12.286Z",
       "providers": [
-        "💸 Number of providers 11",
+        "💸 Number of providers 10",
         "🏆 Most often cheapest provider Western Union",
-        "💰 Average Lowest Total Cost -2.3%",
-        "💰 Highest Total Cost 7.4%",
-        "👍 Recommended Providers MoneyGram, Wise, Remitly, XE Money Transfer, Paysend, Revolut, Ria, WorldRemit, Instarem, Xoom",
+        "💰 Average Lowest Total Cost -2.4%",
+        "💰 Highest Total Cost 7.3%",
+        "👍 Recommended Providers XE Money Transfer, Instarem, MoneyGram, Remitly, Wise, Paysend, Ria, WorldRemit, Xoom",
         "⚡ ️Fastest Transfer Time In minutes",
-        "💳 Pay-in Options Credit card, Debit card, Bank transfer, Cash, International bank transfer, Direct bank payment",
-        "💵 Pay-out Options Card, Bank account, Mobile wallet, Cash pickup, Airtime top-up, Bank account (via international transfer), payout.BILL, Cash delivery",
+        "💳 Pay-in Options Credit card, Debit card, Bank transfer, Cash, Direct bank payment, International bank transfer",
+        "💵 Pay-out Options Cash pickup, Bank account, Mobile wallet, Card, payout.BILL, Cash delivery, Bank account (via international transfer), Airtime top-up",
         "💸 Most transferred amount 100 USD"
       ],
       "bestOption": "10 Best Money Transfer Services  International Money Transfers Explained    ➜   Compare Providers compare   Best Money Transfers  Top Guides  Popular Transfer Routes  Popular Transfer Destinations  Bank Reviews  Exchange Rates  SWIFT Codes  Best Money Transfers  Wise  Western Union  Remitly  WorldRemit  MoneyGram  Skrill  Paysend  Remitly vs Wise  Wise vs Western Union  XE vs Wise  Wise vs Xoom Top Guides  Cheapest ways to send money abroad  Fastest ways to send money abroad  How to send money abroad instantly  Specialist providers vs. banks  Safety when sending money abroad  All about receiving international transfers Popular Transfer Routes  Send money from the US to India  Send money from the US to Mexico  Send money from the US to the Philippines  Send money from the US to Canada  Send money from Canada to the US  Send money from Canada to Nigeria  Send money from Canada to India  Send money from the UK to India  Send money from the UAE to India  Send money from the UK to Pakistan  Send money from the UK to Nigeria  Send money from Mexico to the US  Send money from Saudi Arabia to India  Send money from USA to Colombia  Send money from Malaysia to Indonesia  Send money from the UK to the US  Send money from the US to Pakistan  Send money from the Canada to the Philippines  Send money from Canada to Pakistan  Find your countries Popular Transfer Destinations  Send money to India  Send money to Thailand  Send money to the Dominican Republic  Send money to Brazil  Send money to Russia  Send money to Ukraine  Send money to Mexico  Send money to Pakistan  Find your country Bank Reviews  Bank of America  Wells Fargo  Citibank  Capital One  HSBC  Natwest  Barclays  Lloyds Bank  BMO  Scotiabank  TD Bank Exchange Rates  USD to EUR  USD to NGN  EUR to INR  CAD to USD  USD to INR  USD to GBP  USD to CAD SWIFT Codes  Chase SWIFT  BPI SWIFT  BDO SWIFT  Metrobank SWIFT  HSBC SWIFT  Wells Fargo SWIFT  BMO SWIFT",
@@ -317,7 +292,7 @@
     {
       "source": "Remitly",
       "url": "https://www.remitly.com/us/en/dominican-republic",
-      "extractedAt": "2026-10-23T10:38:22.947Z",
+      "extractedAt": "2026-10-24T09:56:12.827Z",
       "fees": [],
       "features": [],
       "contentSummary": [
