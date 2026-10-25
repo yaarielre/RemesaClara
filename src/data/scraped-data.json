@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "scrapedAt": "2026-10-24T09:56:08.438Z",
+    "scrapedAt": "2026-10-25T10:18:22.013Z",
     "sourcesAttempted": 8,
     "sourcesSuccessful": 8
   },
@@ -8,7 +8,7 @@
     {
       "source": "Wise",
       "url": "https://wise.com/us/send-money/send-money-to-mexico",
-      "extractedAt": "2026-10-24T09:56:09.384Z",
+      "extractedAt": "2026-10-25T10:18:22.848Z",
       "fees": [],
       "exchangeRate": "1 USD = 18.6700 MXN",
       "deliveryTime": null,
@@ -22,7 +22,7 @@
         "La forma más barata de enviar dinero a México desde los EE. UU.",
         "La forma más rápida de enviar dinero a México desde los EE. UU.",
         "Envía dinero a México desde los EE. UU. con la app de Wise",
-        "4.3 / 5 en Trustpilot de un total de 303,571 reseñas",
+        "4.3 / 5 en Trustpilot de un total de 303,650 reseñas",
         "Preguntas frecuentes",
         "Descubre dónde funciona Wise",
         "Productos",
@@ -36,8 +36,8 @@
         "Transferencia bancaria",
         "Tarjeta de débito",
         "Tarjeta de crédito",
-        "Apple Pay",
         "Google Pay",
+        "Apple Pay",
         "Cuenta bancaria local",
         "Transferencias baratas en el extranjero",
         "Haz un seguimiento de los tipos de cambio",
@@ -49,7 +49,7 @@
     {
       "source": "Wise",
       "url": "https://wise.com/us/send-money/send-money-to-colombia",
-      "extractedAt": "2026-10-24T09:56:10.167Z",
+      "extractedAt": "2026-10-25T10:18:23.838Z",
       "fees": [],
       "exchangeRate": "1 USD = 3,133.21 COP",
       "deliveryTime": null,
@@ -63,7 +63,7 @@
         "La forma más barata de enviar dinero a Colombia desde los EE. UU.",
         "La forma más rápida de enviar dinero a Colombia desde los EE. UU.",
         "Envía dinero a Colombia desde los EE. UU. con la app de Wise",
-        "4.3 / 5 en Trustpilot de un total de 303,571 reseñas",
+        "4.3 / 5 en Trustpilot de un total de 303,627 reseñas",
         "Preguntas frecuentes",
         "Descubre dónde funciona Wise",
         "Productos",
@@ -77,8 +77,8 @@
         "Transferencia bancaria",
         "Tarjeta de débito",
         "Tarjeta de crédito",
-        "Apple Pay",
         "Google Pay",
+        "Apple Pay",
         "Cuenta bancaria local",
         "Transferencias baratas en el extranjero",
         "Haz un seguimiento de los tipos de cambio",
@@ -90,7 +90,7 @@
     {
       "source": "Remitly",
       "url": "https://www.remitly.com/us/en/mexico",
-      "extractedAt": "2026-10-24T09:56:10.837Z",
+      "extractedAt": "2026-10-25T10:18:24.409Z",
       "fees": [],
       "features": [],
       "contentSummary": [
@@ -130,22 +130,47 @@
     {
       "source": "Remitly",
       "url": "https://www.remitly.com/us/en/colombia",
-      "extractedAt": "2026-10-24T09:56:11.047Z",
+      "extractedAt": "2026-10-25T10:18:24.893Z",
       "fees": [],
       "features": [],
       "contentSummary": [
-        "Confirm It’s You",
-        "Download the Remitly app",
+        "Send money to Colombia from the United States",
+        "Get a special rate and no fees on your first transfer with Remitly",
+        "Trusted by millions to send billions",
+        "Make global money moves with our app",
+        "Local delivery methods when sending from the United States to Colombia",
+        "Chat to send money with WhatsApp",
+        "What are the delivery options for transfers to Colombia?",
+        "How to send money to Colombia from the United States?",
+        "Send large amounts with ease",
+        "See what our customers are saying",
+        "Simplify your business payments",
+        "Get help with sending money from the United States to Colombia",
+        "Know where your money goes",
+        "Great value",
+        "Delivery time guaranteed",
+        "Bank deposit",
+        "Cash pickup",
+        "Mobile wallet",
+        "What is the best way to send money from the United States to Colombia?",
+        "How much does it cost to transfer money to Colombia?",
+        "How fast can I send money from the United States to Colombia?",
+        "How can I pay for my online money transfer to Colombia from the United States?",
+        "What are the sending limits to Colombia?",
+        "How do I set up my first money transfer?",
+        "Can I track my money transfer from the United States to Colombia?",
+        "How do I receive money from Remitly in Colombia?",
+        "How can I send money internationally from the United States to Colombia?",
+        "and more",
         "Scan the code with your phone to get the app",
-        "©2012 – document.write(new Date().getFullYear()); Remitly, Inc. All rights reserved",
-        "NMLS ID #1028236"
+        "Cash pickup, bank deposit, mobile wallet, and more delivery options with our trusted network in Colombia. Select your preferred provider to learn more."
       ],
       "sourceType": "official"
     },
     {
       "source": "Western Union",
       "url": "https://www.westernunion.com/us/en/home.html",
-      "extractedAt": "2026-10-24T09:56:11.372Z",
+      "extractedAt": "2026-10-25T10:18:25.200Z",
       "fees": [
         "Our fees {{strikedFeeNotRed}} {{fee}}100% off100% off",
         "{{strikedFeeNotRed}} {{fee}}",
@@ -192,7 +217,7 @@
     {
       "source": "Monito",
       "url": "https://www.monito.com/send-money/united-states/mexico/usd/mxn",
-      "extractedAt": "2026-10-24T09:56:11.897Z",
+      "extractedAt": "2026-10-25T10:18:25.427Z",
       "providers": [
         "💸 Number of providers 15",
         "🏆 Cheapest provider (on average) MoneyGram",
@@ -242,7 +267,7 @@
     {
       "source": "Monito",
       "url": "https://www.monito.com/send-money/united-states/colombia/usd/cop",
-      "extractedAt": "2026-10-24T09:56:12.286Z",
+      "extractedAt": "2026-10-25T10:18:25.562Z",
       "providers": [
         "💸 Number of providers 10",
         "🏆 Most often cheapest provider Western Union",
@@ -261,7 +286,7 @@
         "Monito's Recommendations for Sending Money from the USA to Colombia",
         "Top Providers For transfers from the USA to Colombia",
         "Stay on top of the market",
-        "Compare 12 providers for a 100 USD transfer from the USA to Colombia",
+        "Compare 11 providers for a 100 USD transfer from the USA to Colombia",
         "Best Ways to Send Money from the USA to Colombia",
         "About Money Transfers from the USA to Colombia",
         "Compare for your transfer amount:",
@@ -292,7 +317,7 @@
     {
       "source": "Remitly",
       "url": "https://www.remitly.com/us/en/dominican-republic",
-      "extractedAt": "2026-10-24T09:56:12.827Z",
+      "extractedAt": "2026-10-25T10:18:26.032Z",
       "fees": [],
       "features": [],
       "contentSummary": [
