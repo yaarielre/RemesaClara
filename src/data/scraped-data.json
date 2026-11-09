@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "scrapedAt": "2026-11-08T12:21:10.437Z",
+    "scrapedAt": "2026-11-09T14:34:49.240Z",
     "sourcesAttempted": 8,
     "sourcesSuccessful": 8
   },
@@ -8,9 +8,9 @@
     {
       "source": "Wise",
       "url": "https://wise.com/us/send-money/send-money-to-mexico",
-      "extractedAt": "2026-11-08T12:21:11.368Z",
+      "extractedAt": "2026-11-09T14:34:50.519Z",
       "fees": [],
-      "exchangeRate": "1 USD = 18.6215 MXN",
+      "exchangeRate": "1 USD = 18.6111 MXN",
       "deliveryTime": null,
       "contentSummary": [
         "Envíos de dinero a México",
@@ -22,7 +22,7 @@
         "La forma más barata de enviar dinero a México desde los EE. UU.",
         "La forma más rápida de enviar dinero a México desde los EE. UU.",
         "Envía dinero a México desde los EE. UU. con la app de Wise",
-        "4.3 / 5 en Trustpilot de un total de 305,324 reseñas",
+        "4.3 / 5 en Trustpilot de un total de 305,430 reseñas",
         "Preguntas frecuentes",
         "Descubre dónde funciona Wise",
         "Productos",
@@ -39,8 +39,8 @@
         "Transferencia bancaria",
         "Tarjeta de débito",
         "Tarjeta de crédito",
-        "Apple Pay",
         "Google Pay",
+        "Apple Pay",
         "Cuenta bancaria local",
         "Transferencias baratas en el extranjero"
       ],
@@ -49,9 +49,9 @@
     {
       "source": "Wise",
       "url": "https://wise.com/us/send-money/send-money-to-colombia",
-      "extractedAt": "2026-11-08T12:21:12.145Z",
+      "extractedAt": "2026-11-09T14:34:51.496Z",
       "fees": [],
-      "exchangeRate": "1 USD = 3,243.00 COP",
+      "exchangeRate": "1 USD = 3,267.10 COP",
       "deliveryTime": null,
       "contentSummary": [
         "Envíos de dinero a Colombia",
@@ -63,7 +63,7 @@
         "La forma más barata de enviar dinero a Colombia desde los EE. UU.",
         "La forma más rápida de enviar dinero a Colombia desde los EE. UU.",
         "Envía dinero a Colombia desde los EE. UU. con la app de Wise",
-        "4.3 / 5 en Trustpilot de un total de 305,315 reseñas",
+        "4.3 / 5 en Trustpilot de un total de 305,430 reseñas",
         "Preguntas frecuentes",
         "Descubre dónde funciona Wise",
         "Productos",
@@ -90,7 +90,7 @@
     {
       "source": "Remitly",
       "url": "https://www.remitly.com/us/en/mexico",
-      "extractedAt": "2026-11-08T12:21:12.954Z",
+      "extractedAt": "2026-11-09T14:34:52.069Z",
       "fees": [],
       "features": [],
       "contentSummary": [
@@ -130,7 +130,7 @@
     {
       "source": "Remitly",
       "url": "https://www.remitly.com/us/en/colombia",
-      "extractedAt": "2026-11-08T12:21:13.527Z",
+      "extractedAt": "2026-11-09T14:34:52.578Z",
       "fees": [],
       "features": [],
       "contentSummary": [
@@ -170,7 +170,7 @@
     {
       "source": "Western Union",
       "url": "https://www.westernunion.com/us/en/home.html",
-      "extractedAt": "2026-11-08T12:21:13.847Z",
+      "extractedAt": "2026-11-09T14:34:53.147Z",
       "fees": [
         "Our fees {{strikedFeeNotRed}} {{fee}}100% off100% off",
         "{{strikedFeeNotRed}} {{fee}}",
@@ -217,7 +217,7 @@
     {
       "source": "Monito",
       "url": "https://www.monito.com/send-money/united-states/mexico/usd/mxn",
-      "extractedAt": "2026-11-08T12:21:14.383Z",
+      "extractedAt": "2026-11-09T14:34:53.427Z",
       "providers": [
         "💸 Number of providers 15",
         "🏆 Cheapest provider (on average) MoneyGram",
@@ -267,7 +267,7 @@
     {
       "source": "Monito",
       "url": "https://www.monito.com/send-money/united-states/colombia/usd/cop",
-      "extractedAt": "2026-11-08T12:21:14.555Z",
+      "extractedAt": "2026-11-09T14:34:53.594Z",
       "providers": [
         "💸 Number of providers 10",
         "🏆 Most often cheapest provider Western Union",
@@ -317,7 +317,7 @@
     {
       "source": "Remitly",
       "url": "https://www.remitly.com/us/en/dominican-republic",
-      "extractedAt": "2026-11-08T12:21:15.089Z",
+      "extractedAt": "2026-11-09T14:34:54.064Z",
       "fees": [],
       "features": [],
       "contentSummary": [
