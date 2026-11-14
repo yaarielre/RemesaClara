@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "scrapedAt": "2026-11-13T13:33:16.887Z",
+    "scrapedAt": "2026-11-14T12:38:20.514Z",
     "sourcesAttempted": 8,
     "sourcesSuccessful": 8
   },
@@ -8,9 +8,9 @@
     {
       "source": "Wise",
       "url": "https://wise.com/us/send-money/send-money-to-mexico",
-      "extractedAt": "2026-11-13T13:33:17.908Z",
+      "extractedAt": "2026-11-14T12:38:21.583Z",
       "fees": [],
-      "exchangeRate": "1 USD = 18.5410 MXN",
+      "exchangeRate": "1 USD = 18.5371 MXN",
       "deliveryTime": null,
       "contentSummary": [
         "Envíos de dinero a México",
@@ -22,7 +22,7 @@
         "La forma más barata de enviar dinero a México desde los EE. UU.",
         "La forma más rápida de enviar dinero a México desde los EE. UU.",
         "Envía dinero a México desde los EE. UU. con la app de Wise",
-        "4.3 / 5 en Trustpilot de un total de 305,724 reseñas",
+        "4.3 / 5 en Trustpilot de un total de 305,745 reseñas",
         "Preguntas frecuentes",
         "Descubre dónde funciona Wise",
         "Productos",
@@ -49,9 +49,9 @@
     {
       "source": "Wise",
       "url": "https://wise.com/us/send-money/send-money-to-colombia",
-      "extractedAt": "2026-11-13T13:33:18.733Z",
+      "extractedAt": "2026-11-14T12:38:22.472Z",
       "fees": [],
-      "exchangeRate": "1 USD = 3,315.14 COP",
+      "exchangeRate": "1 USD = 3,305.00 COP",
       "deliveryTime": null,
       "contentSummary": [
         "Envíos de dinero a Colombia",
@@ -63,7 +63,7 @@
         "La forma más barata de enviar dinero a Colombia desde los EE. UU.",
         "La forma más rápida de enviar dinero a Colombia desde los EE. UU.",
         "Envía dinero a Colombia desde los EE. UU. con la app de Wise",
-        "4.3 / 5 en Trustpilot de un total de 305,724 reseñas",
+        "4.3 / 5 en Trustpilot de un total de 305,790 reseñas",
         "Preguntas frecuentes",
         "Descubre dónde funciona Wise",
         "Productos",
@@ -80,8 +80,8 @@
         "Transferencia bancaria",
         "Tarjeta de débito",
         "Tarjeta de crédito",
-        "Google Pay",
         "Apple Pay",
+        "Google Pay",
         "Cuenta bancaria local",
         "Transferencias baratas en el extranjero"
       ],
@@ -90,12 +90,11 @@
     {
       "source": "Remitly",
       "url": "https://www.remitly.com/us/en/mexico",
-      "extractedAt": "2026-11-13T13:33:19.411Z",
+      "extractedAt": "2026-11-14T12:38:23.164Z",
       "fees": [],
       "features": [],
       "contentSummary": [
         "Send money to Mexico from the United States",
-        "Low flat fee for bank deposit and mobile wallet, no matter how much you send. Instant speed, your money arrives in minutes. 24/7 help, chat with us in Spanish or English.",
         "Why use Remitly to send money to Mexico?",
         "Send money to Mexico with our app",
         "Local delivery methods when sending to Mexico from the United States",
@@ -123,19 +122,19 @@
         "How can I send money internationally from the United States to Mexico?",
         "and more",
         "Scan the code with your phone to get the app",
-        "Cash pickup, bank deposit, and mobile wallet with our trusted network in Mexico. Select your preferred provider to learn more."
+        "Cash pickup, bank deposit, and mobile wallet with our trusted network in Mexico. Select your preferred provider to learn more.",
+        "©2012 - 2026 Remitly, Inc. All rights reserved"
       ],
       "sourceType": "official"
     },
     {
       "source": "Remitly",
       "url": "https://www.remitly.com/us/en/colombia",
-      "extractedAt": "2026-11-13T13:33:19.957Z",
+      "extractedAt": "2026-11-14T12:38:23.759Z",
       "fees": [],
       "features": [],
       "contentSummary": [
         "Send money to Colombia from the United States",
-        "Get a special rate and no fees on your first transfer with Remitly",
         "Why use Remitly to send money to Colombia?",
         "Send money to Colombia with our app",
         "Local delivery methods when sending to Colombia from the United States",
@@ -163,14 +162,15 @@
         "How can I send money internationally from the United States to Colombia?",
         "and more",
         "Scan the code with your phone to get the app",
-        "Cash pickup, bank deposit, mobile wallet, and more delivery options with our trusted network in Colombia. Select your preferred provider to learn more."
+        "Cash pickup, bank deposit, mobile wallet, and more delivery options with our trusted network in Colombia. Select your preferred provider to learn more.",
+        "©2012 - 2026 Remitly, Inc. All rights reserved"
       ],
       "sourceType": "official"
     },
     {
       "source": "Western Union",
       "url": "https://www.westernunion.com/us/en/home.html",
-      "extractedAt": "2026-11-13T13:33:20.321Z",
+      "extractedAt": "2026-11-14T12:38:24.086Z",
       "fees": [
         "Our fees {{strikedFeeNotRed}} {{fee}}100% off100% off",
         "{{strikedFeeNotRed}} {{fee}}",
@@ -217,7 +217,7 @@
     {
       "source": "Monito",
       "url": "https://www.monito.com/send-money/united-states/mexico/usd/mxn",
-      "extractedAt": "2026-11-13T13:33:20.547Z",
+      "extractedAt": "2026-11-14T12:38:24.395Z",
       "providers": [
         "💸 Number of providers 15",
         "🏆 Cheapest provider (on average) MoneyGram",
@@ -267,7 +267,7 @@
     {
       "source": "Monito",
       "url": "https://www.monito.com/send-money/united-states/colombia/usd/cop",
-      "extractedAt": "2026-11-13T13:33:20.725Z",
+      "extractedAt": "2026-11-14T12:38:24.548Z",
       "providers": [
         "💸 Number of providers 10",
         "🏆 Most often cheapest provider Western Union",
@@ -317,12 +317,11 @@
     {
       "source": "Remitly",
       "url": "https://www.remitly.com/us/en/dominican-republic",
-      "extractedAt": "2026-11-13T13:33:21.420Z",
+      "extractedAt": "2026-11-14T12:38:25.079Z",
       "fees": [],
       "features": [],
       "contentSummary": [
         "Send money to the Dominican Republic from the United States",
-        "Get a special rate and no fees on your first transfer with Remitly. Low fees for bank deposit and mobile wallet. Every time.",
         "Why use Remitly to send money to the Dominican Republic?",
         "Send money to the Dominican Republic with our app",
         "Local delivery methods when sending to the Dominican Republic from the United States",
@@ -340,6 +339,7 @@
         "Cash pickup",
         "Mobile wallet",
         "Home delivery",
+        "Debit card deposit",
         "What is the best way to send money from the United States to the Dominican Republic?",
         "How much does it cost to transfer money to the Dominican Republic?",
         "How fast can I send money from the United States to the Dominican Republic?",
