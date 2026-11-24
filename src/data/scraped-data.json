@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "scrapedAt": "2026-11-23T16:42:53.329Z",
+    "scrapedAt": "2026-11-24T16:39:01.283Z",
     "sourcesAttempted": 8,
     "sourcesSuccessful": 8
   },
@@ -8,9 +8,9 @@
     {
       "source": "Wise",
       "url": "https://wise.com/us/send-money/send-money-to-mexico",
-      "extractedAt": "2026-11-23T16:42:54.361Z",
+      "extractedAt": "2026-11-24T16:39:02.340Z",
       "fees": [],
-      "exchangeRate": "1 USD = 19.1573 MXN",
+      "exchangeRate": "1 USD = 19.4230 MXN",
       "deliveryTime": null,
       "contentSummary": [
         "Envíos de dinero a México",
@@ -22,7 +22,7 @@
         "La forma más barata de enviar dinero a México desde los EE. UU.",
         "La forma más rápida de enviar dinero a México desde los EE. UU.",
         "Envía dinero a México desde los EE. UU. con la app de Wise",
-        "4.3 / 5 en Trustpilot de un total de 306,438 reseñas",
+        "4.3 / 5 en Trustpilot de un total de 306,501 reseñas",
         "Preguntas frecuentes",
         "Descubre dónde funciona Wise",
         "Productos",
@@ -49,9 +49,9 @@
     {
       "source": "Wise",
       "url": "https://wise.com/us/send-money/send-money-to-colombia",
-      "extractedAt": "2026-11-23T16:42:55.159Z",
+      "extractedAt": "2026-11-24T16:39:03.755Z",
       "fees": [],
-      "exchangeRate": "1 USD = 3,508.63 COP",
+      "exchangeRate": "1 USD = 3,624.04 COP",
       "deliveryTime": null,
       "contentSummary": [
         "Envíos de dinero a Colombia",
@@ -63,7 +63,7 @@
         "La forma más barata de enviar dinero a Colombia desde los EE. UU.",
         "La forma más rápida de enviar dinero a Colombia desde los EE. UU.",
         "Envía dinero a Colombia desde los EE. UU. con la app de Wise",
-        "4.3 / 5 en Trustpilot de un total de 306,438 reseñas",
+        "4.3 / 5 en Trustpilot de un total de 306,501 reseñas",
         "Preguntas frecuentes",
         "Descubre dónde funciona Wise",
         "Productos",
@@ -90,7 +90,7 @@
     {
       "source": "Remitly",
       "url": "https://www.remitly.com/us/en/mexico",
-      "extractedAt": "2026-11-23T16:42:55.969Z",
+      "extractedAt": "2026-11-24T16:39:04.270Z",
       "fees": [],
       "features": [],
       "contentSummary": [
@@ -130,7 +130,7 @@
     {
       "source": "Remitly",
       "url": "https://www.remitly.com/us/en/colombia",
-      "extractedAt": "2026-11-23T16:42:56.603Z",
+      "extractedAt": "2026-11-24T16:39:04.859Z",
       "fees": [],
       "features": [],
       "contentSummary": [
@@ -170,7 +170,7 @@
     {
       "source": "Western Union",
       "url": "https://www.westernunion.com/us/en/home.html",
-      "extractedAt": "2026-11-23T16:42:56.967Z",
+      "extractedAt": "2026-11-24T16:39:05.262Z",
       "fees": [
         "Our fees {{strikedFeeNotRed}} {{fee}}100% off100% off",
         "{{strikedFeeNotRed}} {{fee}}",
@@ -216,7 +216,7 @@
     {
       "source": "Monito",
       "url": "https://www.monito.com/send-money/united-states/mexico/usd/mxn",
-      "extractedAt": "2026-11-23T16:42:57.242Z",
+      "extractedAt": "2026-11-24T16:39:05.602Z",
       "providers": [
         "💸 Number of providers 15",
         "🏆 Cheapest provider (on average) MoneyGram",
@@ -266,7 +266,7 @@
     {
       "source": "Monito",
       "url": "https://www.monito.com/send-money/united-states/colombia/usd/cop",
-      "extractedAt": "2026-11-23T16:42:57.375Z",
+      "extractedAt": "2026-11-24T16:39:05.894Z",
       "providers": [
         "💸 Number of providers 10",
         "🏆 Most often cheapest provider Western Union",
@@ -316,7 +316,7 @@
     {
       "source": "Remitly",
       "url": "https://www.remitly.com/us/en/dominican-republic",
-      "extractedAt": "2026-11-23T16:42:57.989Z",
+      "extractedAt": "2026-11-24T16:39:06.476Z",
       "fees": [],
       "features": [],
       "contentSummary": [
